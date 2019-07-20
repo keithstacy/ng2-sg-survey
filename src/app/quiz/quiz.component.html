@@ -5,7 +5,7 @@
   <div class="col-6 text-right">
     Select Quiz:
     <select [(ngModel)]="quizName" (change)="loadQuiz(quizName)">
-      <option *ngFor="let quiz of quizes" [value]="quiz.id">{{quiz.name}}</option>
+      <option *ngFor="let quiz of quizzes" [value]="quiz.id">{{quiz.name}}</option>
     </select>
   </div>
 </div>

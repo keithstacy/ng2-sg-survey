@@ -11,7 +11,7 @@ import { Option, Question, Quiz, QuizConfig } from '../models/index';
   providers: [QuizService]
 })
 export class QuizComponent implements OnInit {
-  quizes: any[];
+  quizzes: any[];
   quiz: Quiz = new Quiz(null);
   mode = 'quiz';
   quizName: string;
@@ -44,8 +44,8 @@ export class QuizComponent implements OnInit {
   constructor(private quizService: QuizService) { }
 
   ngOnInit() {
-    this.quizes = this.quizService.getAll();
-    this.quizName = this.quizes[0].id;
+    this.quizzes = this.quizService.getAll();
+    this.quizName = this.quizzes[0].id;
     this.loadQuiz(this.quizName);
   }
 
@@ -85,7 +85,7 @@ export class QuizComponent implements OnInit {
 
   onSelect(question: Question, option: Option) {
     if (question.questionTypeId === 1) {
-      question.options.forEach((x) => { if (x.id !== option.id) x.selected = false; });
+      question.options.forEach((x) => { if (x.id !== option.id) { x.selected = false; } });
     }
 
     if (this.config.autoMove) {
@@ -102,13 +102,14 @@ export class QuizComponent implements OnInit {
 
   isAnswered(question: Question) {
     return question.options.find(x => x.selected) ? 'Answered' : 'Not Answered';
-  };
+  }
 
   isCorrect(question: Question) {
     return question.options.every(x => x.selected === x.isAnswer) ? 'correct' : 'wrong';
-  };
+  }
 
   onSubmit() {
+    // tslint:disable-next-line: prefer-const
     let answers = [];
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered }));
 

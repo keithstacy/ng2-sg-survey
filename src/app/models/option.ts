@@ -4,6 +4,8 @@ export class Option {
     name: string;
     isAnswer: boolean;
     selected: boolean;
+    gift: string;
+    weight: number;
 
     constructor(data: any) {
         data = data || {};
@@ -11,5 +13,7 @@ export class Option {
         this.questionId = data.questionId;
         this.name = data.name;
         this.isAnswer = data.isAnswer;
+        this.gift = data.gift;
+        this.weight = data.weight;
     }
 }

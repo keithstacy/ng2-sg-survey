@@ -5,7 +5,7 @@
     "questions": [
         {
             "id": 1010,
-            "name": "In SOLID principle, O stands for:",
+            "name": "In the SOLID principles, O stands for:",
             "questionTypeId": 1,
             "options": [
                 {
@@ -41,7 +41,7 @@
         },
         {
             "id": 1011,
-            "name": "Which pattern defines an interface for creating an object, but let the subclasses decide which class to instantiate. It let the instantiation differ to subclasses.",
+            "name": "Which pattern defines an interface for creating an object, but lets the subclasses decide which class to instantiate. It lets the instantiation differ between subclasses.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -77,7 +77,7 @@
         },
         {
             "id": 1012,
-            "name": "Which pattern attach the additional responsibilities to an object dynamically.It provides a flexible alternative to subclassing for extending functionality.",
+            "name": "Which pattern attaches additional responsibilities to an object dynamically. It provides a flexible alternative to subclassing for extending functionality.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -113,7 +113,7 @@
         },
         {
             "id": 1013,
-            "name": "Singleton pattern is a (according to Gang of Four):",
+            "name": "According to the Gang of Four, the Singleton pattern is a:",
             "questionTypeId": 1,
             "options": [
                 {
@@ -149,7 +149,7 @@
         },
         {
             "id": 1014,
-            "name": "MVC, MVP and MVVP are related to which layer of software architecture?",
+            "name": "The MVC, MVP and MVVP patterns are related to which layer of software architecture?",
             "questionTypeId": 1,
             "options": [
                 {
@@ -185,7 +185,7 @@
         },
         {
             "id": 1015,
-            "name": "Which pattern defines a family of algorithms, encapsulate each one, and make them interchangeable. It lets the algorithm vary independently from clients that use it?",
+            "name": "There is a pattern that defines a family of algorithms, encapsulates each one, and makes them interchange- able. It lets the algorithm vary independently from the clients that use it. Which one is it?",
             "questionTypeId": 1,
             "options": [
                 {
@@ -221,7 +221,7 @@
         },
         {
             "id": 1016,
-            "name": "Which pattern define one to many dependency between objects so that when one object change state, all its dependent are notified and updated automatically?",
+            "name": "Which pattern defines one to many dependencies between objects so that when one object changes state, all its dependencies are notified and updated automatically?",
             "questionTypeId": 1,
             "options": [
                 {
@@ -257,7 +257,7 @@
         },
         {
             "id": 1017,
-            "name": "Which pattern ensures a class has only one instance, and provide a global access point to it?",
+            "name": "Which pattern ensures a class has only one instance, and provides a global access point to it?",
             "questionTypeId": 1,
             "options": [
                 {
@@ -329,7 +329,7 @@
         },
         {
             "id": 1019,
-            "name": "In SOLID principles 'S' stands for:",
+            "name": "In the SOLID principles 'S' stands for:",
             "questionTypeId": 1,
             "options": [
                 {
