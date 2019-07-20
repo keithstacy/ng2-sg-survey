@@ -1,0 +1,96 @@
+{
+  "keyList" : [
+    {
+      "key" : "a",
+      "name" : "Administration"
+    },
+    {
+      "key" : "b",
+      "name" : "Craftsmanship"
+    },
+    {
+      "key" : "c",
+      "name" : "Creative Communication"
+    },
+    {
+      "key" : "d",
+      "name" : "Encouragement"
+    },
+    {
+      "key" : "e",
+      "name" : "Faith"
+    },
+    {
+      "key" : "f",
+      "name" : "Giving"
+    },
+    {
+      "key" : "g",
+      "name" : "Helps"
+    },
+    {
+      "key" : "h",
+      "name" : "Hospitality"
+    },
+    {
+      "key" : "i",
+      "name" : "Intercession"
+    },
+    {
+      "key" : "j",
+      "name" : "Leadership"
+    },
+    {
+      "key" : "k",
+      "name" : "Mercy"
+    },
+    {
+      "key" : "l",
+      "name" : "Apostleship"
+    },
+    {
+      "key" : "m",
+      "name" : "Prophecy"
+    },
+    {
+      "key" : "n",
+      "name" : "Evangelism"
+    },
+    {
+      "key" : "o",
+      "name" : "Shepherding"
+    },
+    {
+      "key" : "p",
+      "name" : "Teaching"
+    },
+    {
+      "key" : "q",
+      "name" : "Discernment"
+    },
+    {
+      "key" : "r",
+      "name" : "Word of Knowledge"
+    },
+    {
+      "key" : "s",
+      "name" : "Word of Wisdom"
+    },
+    {
+      "key" : "t",
+      "name" : "Healing"
+    },
+    {
+      "key" : "u",
+      "name" : "Interpretation"
+    },
+    {
+      "key" : "v",
+      "name" : "Miracles"
+    },
+    {
+      "key" : "w",
+      "name" : "Tongues"
+    }
+  ]
+}
