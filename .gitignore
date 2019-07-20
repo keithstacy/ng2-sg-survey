@@ -38,3 +38,7 @@ testem.log
 .DS_Store
 Thumbs.db
 .vs/ng2-quiz/v16/.suo
+.vs/ng2-quiz/config/applicationhost.config
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/ProjectSettings.json
