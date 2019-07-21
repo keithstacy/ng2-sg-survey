@@ -11,30 +11,34 @@
           "options": [
               {
                   "id": 2055,
-                  "questionId": 2020,
-                  "name": "Not at all",
-                  "gift" : "a",
+                  "questionId": 1,
+                  "name": "Never/Not at all",
+                  "value": 0,
+                  "gift":  "a",
                   "isAnswer": true
               },
               {
                   "id": 2056,
-                  "questionId": 2020,
-                  "name": "A little bit",
-                  "gift" : "a",
+                  "questionId": 1,
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
+                  "gift": "a",
                   "isAnswer": true
               },
               {
                   "id": 2057,
-                  "questionId": 2020,
-                  "name": "A moderate amount",
-                  "gift" : "a",
+                  "questionId": 1,
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
+                  "gift": "a",
                   "isAnswer": true
               },
               {
                   "id": 2058,
-                  "questionId": 2020,
-                  "name": "A great deal",
-                  "gift" : "a",
+                  "questionId": 1,
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
+                  "gift": "a",
                   "isAnswer": true
               }
           ],
@@ -53,28 +57,32 @@
               {
                   "id": 2059,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2060,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2061,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2062,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -94,28 +102,32 @@
               {
                   "id": 2063,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2064,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2065,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2066,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -136,28 +148,32 @@
               {
                   "id": 2067,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2068,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2069,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2070,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -177,28 +193,32 @@
               {
                   "id": 2071,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2072,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2073,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2074,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -218,28 +238,32 @@
               {
                   "id": 2075,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2076,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2077,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2078,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -260,28 +284,32 @@
               {
                   "id": 2079,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2080,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2081,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2082,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -301,28 +329,32 @@
               {
                   "id": 2083,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2084,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2085,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2086,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -342,28 +374,32 @@
               {
                   "id": 2087,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2088,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2089,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2090,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -383,28 +419,32 @@
               {
                   "id": 2091,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2092,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2093,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                   "gift" : "",
                   "isAnswer": true
               },
               {
                   "id": 2094,
                   "questionId": 2020,
-                  "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                   "gift" : "",
                   "isAnswer": true
               }
@@ -424,28 +464,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -465,28 +509,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -506,28 +554,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -547,28 +599,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -588,28 +644,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -629,28 +689,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -670,28 +734,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -711,28 +779,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -752,28 +824,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -793,28 +869,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -834,28 +914,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -875,28 +959,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -916,28 +1004,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -957,28 +1049,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -998,28 +1094,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1039,28 +1139,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1080,28 +1184,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1121,28 +1229,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1162,28 +1274,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1203,28 +1319,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1244,28 +1364,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1285,28 +1409,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1326,28 +1454,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1367,28 +1499,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1408,28 +1544,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
@@ -1449,28 +1589,32 @@
             {
                 "id": 2091,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Never/Not at all",
+                  "value": 0,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2092,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Some of the time/Once in a while",
+                  "value": 1,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2093,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Most of the time/Usually true",
+                  "value": 2,
                 "gift" : "",
                 "isAnswer": true
             },
             {
                 "id": 2094,
                 "questionId": 2020,
-                "name": "",
+                  "name": "Consistently/Definitely true",
+                  "value": 3,
                 "gift" : "",
                 "isAnswer": true
             }
