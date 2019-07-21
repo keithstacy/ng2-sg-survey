@@ -17,13 +17,13 @@ export class QuizConfig {
         this.allowBack = data.allowBack;
         this.allowReview = data.allowReview;
         this.autoMove = data.autoMove;
-        this.duration = data.duration;
+        this.duration = 0; // data.duration;
         this.pageSize = data.pageSize;
         this.requiredAll = data.requiredAll;
         this.richText = data.richText;
-        this.shuffleQuestions = data.shuffleQuestions;
+        this.shuffleQuestions = true; // data.shuffleQuestions;
         this.shuffleOptions = data.shuffleOptions;
-        this.showClock = data.showClock;
+        this.showClock = false; // data.showClock;
         this.showPager = data.showPager;
     }
 }
