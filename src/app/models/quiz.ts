@@ -1,5 +1,6 @@
 import { QuizConfig } from './quiz-config';
 import { Question } from './question';
+import { Gift } from './gift';
 
 export class Quiz {
     id: number;
@@ -7,6 +8,7 @@ export class Quiz {
     description: string;
     config: QuizConfig;
     questions: Question[];
+    gifts: Gift[];
 
     constructor(data: any) {
         if (data) {
@@ -15,9 +17,12 @@ export class Quiz {
             this.description = data.description;
             this.config = new QuizConfig(data.config);
             this.questions = [];
-            data.questions.forEach(q => {
+            data.questions.forEach((q: any) => {
                 this.questions.push(new Question(q));
             });
+            // data.topThreeGifts.forEach((g: any) => {
+            //   this.topThreeGifts.push(new Gift(g));
+            // });
         }
     }
 }

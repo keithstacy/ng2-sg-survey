@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 import { QuizService } from '../services/quiz.service';
 import { HelperService } from '../services/helper.service';
-import { Option, Question, Quiz, QuizConfig } from '../models/index';
-import { Gift } from '../models/gift';
+import { Option, Question, Quiz, QuizConfig, Gift } from '../models/index';
 
 @Component({
   selector: 'app-quiz',
@@ -14,7 +13,7 @@ import { Gift } from '../models/gift';
 export class QuizComponent implements OnInit {
   quizzes: any[];
   quiz: Quiz = new Quiz(null);
-  topThreeGifts: any[];
+  gifts: any[];
   gift: Gift = new Gift(null);
   mode = 'quiz';
   quizName: string;
@@ -22,7 +21,7 @@ export class QuizComponent implements OnInit {
     'allowBack': true,
     'allowReview': true,
     'autoMove': true,  // if true, it will move to next question automatically when answered.
-    'duration': 300,  // indicates the time (in secs) in which quiz needs to be completed. 0 means unlimited.
+    'duration': 0,  // indicates the time (in secs) in which quiz needs to be completed. 0 means unlimited.
     'pageSize': 1,
     'requiredAll': false,  // indicates if you must answer all the questions before submitting.
     'richText': false,
@@ -43,6 +42,7 @@ export class QuizComponent implements OnInit {
   endTime: Date;
   elapsedTime = '00:00';
   duration = '';
+  quizScore: any;
 
   constructor(private quizService: QuizService) { }
 
@@ -116,9 +116,9 @@ export class QuizComponent implements OnInit {
     let answers = [];
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered }));
 
-
-
     // Post your data to the server here. answers contains the questionId and the users' answer.
+    this.quizService.post(this.quiz);
+    this.quizScore = this.quizService.getScore();
     console.log(this.quiz.questions);
     this.mode = 'result';
   }

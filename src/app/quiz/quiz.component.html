@@ -1,8 +1,8 @@
 <div class="row">
-  <div class="col-6">
-    <h3>Quiz Application</h3>
+  <div class="col-6" style="opacity: 0.5">
+    <h5>Parkside Church</h5>
   </div>
-  <div class="col-6 text-right">
+  <div hidden="true" class="col-6 text-right">
     Select Quiz:
     <select [(ngModel)]="quizName" (change)="loadQuiz(quizName)">
       <option *ngFor="let quiz of quizzes" [value]="quiz.id">{{quiz.name}}</option>
@@ -16,7 +16,6 @@
   <div *ngIf="mode=='quiz' && quiz">
     <div *ngFor="let question of filteredQuestions;">
       <div class="badge badge-info">Question {{pager.index + 1}} of {{pager.count}}.</div>
-      <div *ngIf="config.duration" class="badge badge-info float-right">Time: {{ellapsedTime}} / {{duration}}</div>
       <h3 class="font-weight-normal">{{pager.index + 1}}.
         <span [innerHTML]="question.name"></span>
       </h3>
@@ -36,7 +35,6 @@
       <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.index - 1);">Prev</button>
       <button class="btn btn-primary" (click)="goTo(pager.index + 1);">Next</button>
       <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.count - 1);">Last</button>
-      <!--<pagination *ngIf="config.showPager" direction-links="false" total-items="totalItems" items-per-page="itemsPerPage" ng-model="currentPage" ng-change="pageChanged()"></pagination>-->
     </div>
   </div>
 
@@ -45,25 +43,30 @@
       <div (click)="goTo(index)" class="p-3 mb-2 {{ isAnswered(question) == 'Answered'? 'bg-info': 'bg-warning' }}">{{index + 1}}. {{ isAnswered(question) }}</div>
     </div>
   </div>
+
   <div class="result" *ngIf="mode=='result'">
-    <h2>Quiz Result</h2>
+    <h2>Survey Result</h2>
+    <div>
+      <h4 class="alert alert-info text-center">Your top three results are:</h4>
+      <div *ngFor="let gift of quiz.gifts">{{gift.name}}</div>
+    </div>
     <div *ngFor="let question of quiz.questions; let index = index">
       <div class="result-question">
         <h5>{{index + 1}}. {{question.name}}</h5>
         <div class="row">
           <div class="col-6" *ngFor="let Option of question.options">
-            <input id="{{Option.id}}" type="checkbox" disabled="disabled" [(ngModel)]="Option.selected" /> {{Option.name}}
+            <div *ngIf="Option.selected">
+              <input id="{{Option.id}}" type="checkbox" disabled="disabled" [(ngModel)]="Option.selected" /> {{Option.name}}
+            </div>
           </div>
         </div>
-        <div class="p-1 m-2 alert {{ isCorrect(question) == 'correct'? 'alert-success': 'alert-danger'}}">Your answer is {{isCorrect(question)}}.</div>
       </div>
     </div>
-    <h4 class="alert alert-info text-center">You may close this window now.</h4>
   </div>
   <hr />
   <div *ngIf="mode!='result'">
-    <button class="btn btn-warning" (click)="mode = 'quiz'">Quiz</button>
+    <button class="btn btn-warning" (click)="mode = 'quiz'">Survey</button>
     <button class="btn btn-info" (click)="mode = 'review'">Review</button>
-    <button class="btn btn-primary" (click)="onSubmit();">Submit Quiz</button>
+    <button class="btn btn-primary" (click)="onSubmit();">Get your results</button>
   </div>
 </div>
