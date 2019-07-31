@@ -8,4 +8,5 @@ import { QuizComponent } from './quiz/quiz.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title: string;
 }

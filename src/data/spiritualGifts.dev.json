@@ -5,14 +5,14 @@
   "questions": [
     {
       "id": 1,
-      "name": "I can coordinate people, tasks, and events to meet a need.",
+      "text": "I can coordinate people, tasks, and events to meet a need.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
         {
           "id": 2055,
           "questionId": 1,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "a",
           "isAnswer": true
@@ -20,7 +20,7 @@
         {
           "id": 2056,
           "questionId": 1,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "a",
           "isAnswer": true
@@ -28,7 +28,7 @@
         {
           "id": 2057,
           "questionId": 1,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "a",
           "isAnswer": true
@@ -36,7 +36,7 @@
         {
           "id": 2058,
           "questionId": 1,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "a",
           "isAnswer": true
@@ -50,14 +50,14 @@
     },
     {
       "id": 2,
-      "name": "I enjoy working creatively with wood, cloth, paints, metal, glass, or other materials.",
+      "text": "I enjoy working creatively with wood, cloth, paints, metal, glass, or other materials.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
         {
           "id": 2059,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -65,7 +65,7 @@
         {
           "id": 2060,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -73,7 +73,7 @@
         {
           "id": 2061,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -81,7 +81,7 @@
         {
           "id": 2062,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -95,14 +95,14 @@
     },
     {
       "id": 3,
-      "name": "I enjoy developing and using my artistic skills (art, drama, music, photography, etc.)",
+      "text": "I enjoy developing and using my artistic skills (art, drama, music, photography, etc.)",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
         {
           "id": 2063,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -110,7 +110,7 @@
         {
           "id": 2064,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -118,7 +118,7 @@
         {
           "id": 2065,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -126,7 +126,7 @@
         {
           "id": 2066,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -141,14 +141,14 @@
     },
     {
       "id": 4,
-      "name": "When I see spiritual complacency, I am willing to challenge it.",
+      "text": "When I see spiritual complacency, I am willing to challenge it.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
         {
           "id": 2067,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -156,7 +156,7 @@
         {
           "id": 2068,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -164,7 +164,7 @@
         {
           "id": 2069,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -172,7 +172,7 @@
         {
           "id": 2070,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -186,14 +186,14 @@
     },
     {
       "id": 5,
-      "name": "I have confidence that God not only can, but he will.",
+      "text": "I have confidence that God not only can, but he will.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
         {
           "id": 2071,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -201,7 +201,7 @@
         {
           "id": 2072,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -209,7 +209,7 @@
         {
           "id": 2073,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -217,7 +217,7 @@
         {
           "id": 2074,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -231,14 +231,14 @@
     },
     {
       "id": 6,
-      "name": "I give liberally and joyfully to people in financial need or to projects requiring support.",
+      "text": "I give liberally and joyfully to people in financial need or to projects requiring support.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
         {
           "id": 2075,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -246,7 +246,7 @@
         {
           "id": 2076,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -254,7 +254,7 @@
         {
           "id": 2077,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -262,7 +262,7 @@
         {
           "id": 2078,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -277,14 +277,14 @@
     },
     {
       "id": 7,
-      "name": "I enjoy working behind the scenes to support the work of others.",
+      "text": "I enjoy working behind the scenes to support the work of others.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
         {
           "id": 2079,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -292,7 +292,7 @@
         {
           "id": 2080,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -300,7 +300,7 @@
         {
           "id": 2081,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -308,7 +308,7 @@
         {
           "id": 2082,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -322,14 +322,14 @@
     },
     {
       "id": 8,
-      "name": "I view my home as a safe and caring place to minister to people.",
+      "text": "I view my home as a safe and caring place to minister to people.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
         {
           "id": 2083,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -337,7 +337,7 @@
         {
           "id": 2084,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -345,7 +345,7 @@
         {
           "id": 2085,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -353,7 +353,7 @@
         {
           "id": 2086,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -361,20 +361,20 @@
       ],
       "questionType": {
         "id": 1,
-        "name": "",
+        "name": "Multiple Choice",
         "isActive": true
       }
     },
     {
       "id": 9,
-      "name": "When it comes to my attention, I am honored to regularly pray for someone or for a concern.",
+      "text": "When it comes to my attention, I am honored to regularly pray for someone or for a concern.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
         {
           "id": 2087,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -382,7 +382,7 @@
         {
           "id": 2088,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -390,7 +390,7 @@
         {
           "id": 2089,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -398,7 +398,7 @@
         {
           "id": 2090,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -412,14 +412,14 @@
     },
     {
       "id": 10,
-      "name": "I am motivated to set goals and influence others to achieve a vision in order to advance God’s work on earth.",
+      "text": "I am motivated to set goals and influence others to achieve a vision in order to advance God’s work on earth.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
         {
           "id": 2091,
           "questionId": 2020,
-          "name": "Never/Not at all",
+          "text": "Never/Not at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -427,7 +427,7 @@
         {
           "id": 2092,
           "questionId": 2020,
-          "name": "Some of the time/Once in a while",
+          "text": "Some of the time/Once in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -435,7 +435,7 @@
         {
           "id": 2093,
           "questionId": 2020,
-          "name": "Most of the time/Usually true",
+          "text": "Most of the time/Usually true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -443,7 +443,7 @@
         {
           "id": 2094,
           "questionId": 2020,
-          "name": "Consistently/Definitely true",
+          "text": "Consistently/Definitely true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -454,6 +454,169 @@
         "name": "Multiple Choice",
         "isActive": true
       }
+    }
+  ],
+  "gifts": [
+    {
+      "id": 0,
+      "name": "Administration",
+      "description": "",
+      "score": 0,
+      "key": "a"
+    },
+    {
+      "id": 1,
+      "name": "Craftsmanship",
+      "description": "",
+      "score": 0,
+      "key": "b"
+    },
+    {
+      "id": 2,
+      "name": "Creative Communication",
+      "description": "",
+      "score": 0,
+      "key": "c"
+    },
+    {
+      "id": 3,
+      "name": "Encouragement",
+      "description": "",
+      "score": 0,
+      "key": "d"
+    },
+    {
+      "id": 4,
+      "name": "Faith",
+      "description": "",
+      "score": 0,
+      "key": "e"
+    },
+    {
+      "id": 5,
+      "name": "Giving",
+      "description": "",
+      "score": 0,
+      "key": "f"
+    },
+    {
+      "id": 6,
+      "name": "Helps",
+      "description": "",
+      "score": 0,
+      "key": "g"
+    },
+    {
+      "id": 7,
+      "name": "Hospitality",
+      "description": "",
+      "score": 0,
+      "key": "h"
+    },
+    {
+      "id": 8,
+      "name": "Intercession",
+      "description": "",
+      "score": 0,
+      "key": "i"
+    },
+    {
+      "id": 9,
+      "name": "Leadership",
+      "description": "",
+      "score": 0,
+      "key": "j"
+    },
+    {
+      "id": 10,
+      "name": "Mercy",
+      "description": "",
+      "score": 0,
+      "key": "k"
+    },
+    {
+      "id": 11,
+      "name": "Apostleship",
+      "description": "",
+      "score": 0,
+      "key": "l"
+    },
+    {
+      "id": 12,
+      "name": "Prophecy",
+      "description": "",
+      "score": 0,
+      "key": "m"
+    },
+    {
+      "id": 13,
+      "name": "Evangelism",
+      "description": "",
+      "score": 0,
+      "key": "n"
+    },
+    {
+      "id": 14,
+      "name": "Shepherding",
+      "description": "",
+      "score": 0,
+      "key": "o"
+    },
+    {
+      "id": 15,
+      "name": "Teaching",
+      "description": "",
+      "score": 0,
+      "key": "p"
+    },
+    {
+      "id": 16,
+      "name": "Discernment",
+      "description": "",
+      "score": 0,
+      "key": "q"
+    },
+    {
+      "id": 17,
+      "name": "Word of Knowledge",
+      "description": "",
+      "score": 0,
+      "key": "r"
+    },
+    {
+      "id": 18,
+      "name": "Word of Wisdom",
+      "description": "",
+      "score": 0,
+      "key": "s"
+    },
+    {
+      "id": 19,
+      "name": "Healing",
+      "description": "",
+      "score": 0,
+      "key": "t"
+    },
+    {
+      "id": 20,
+      "name": "Interpretation",
+      "description": "",
+      "score": 0,
+      "key": "u"
+    },
+    {
+      "id": 21,
+      "name": "Miracles",
+      "description": "",
+      "score": 0,
+      "key": "v"
+    },
+    {
+      "id": 22,
+      "name": "Tongues",
+      "description": "",
+      "score": 0,
+      "key": "w"
     }
   ]
 }

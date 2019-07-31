@@ -3,6 +3,9 @@ export class GiftScore {
   key: string;
   gift: string;
   score: number;
+
+  constructor() {
+  }
 }
 
 export class Score {
@@ -10,4 +13,7 @@ export class Score {
   totalScore: number;
   key: string;
   giftName: string;
+
+  constructor() {
+  }
 }
