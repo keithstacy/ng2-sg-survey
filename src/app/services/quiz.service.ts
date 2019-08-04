@@ -1,54 +1,41 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Quiz } from '../models';
-import { Score, GiftScore } from '../models/score';
-import { Question } from '../models';
+import { Quiz, Question, Gift } from '../models';
+// import { Score, GiftScore } from '../models/score';
 
 @Injectable()
 export class QuizService {
 
   private _quiz: Quiz;
-  private _score: Score;
-  private _questionsForThisGift: Question[];
+  private _http: HttpClient;
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {
+    this._http = http;
+  }
 
-  getScore(): Score {
+  getScore(): Gift[] {
     const _keyCount = 23; // the number of alphabetic keys
-    this._score = new Score;
 
-    let thisKey = '';
-
+    let thisGiftKey = '';
+    let questionsForThisGift: Question[] = [];
     for (let i = 0; i < _keyCount; i++) {
       try {
-        console.log(this._quiz);
-        console.log(this._quiz.gifts);
-        thisKey = this._quiz.gifts[i].key;
+        if (this._quiz.gifts[i]) {
+          thisGiftKey = this._quiz.gifts[i].key;
+          this._quiz.gifts[i].score = 0;
+          questionsForThisGift = this._quiz.questions.filter(q => q.gift === thisGiftKey);
+          console.log(questionsForThisGift.length + ' questions for the key ' + thisGiftKey);
+          questionsForThisGift.forEach((q) => {this._quiz.gifts[i].score += q.score; console.log(this._quiz.gifts[i].score); } );
+          console.log('score for quiz gift ' + i + ': ' + this._quiz.gifts[i].score);
+        }
       } catch (error) {
-        console.log('error at line 24');
+        console.log('gift not found; key: ' + thisGiftKey);
       }
-      console.log(thisKey);
-      try {
-        this._score.giftScoreList[i] = new GiftScore;
-      } catch (error) {
-        console.log(error);
-      }
-      try {
-      this._questionsForThisGift = this._quiz.questions.filter(q => q.key === thisKey);
-      console.log('key: ' + this._questionsForThisGift[0].key);
-      this._questionsForThisGift.forEach(q => this._score.totalScore += q.score);
-      } catch (error) {
-        console.log(error);
-      }
-      console.log('totalScore: ' + this._score.totalScore);
-      try {
-        this._score.key = thisKey;
-        this._score.giftName = this._quiz.gifts[i].name;
-      } catch (error) {
-        console.log(error);
-      }
+
+      console.log('current key: ' + thisGiftKey);
+
     }
-    return this._score;
+    return this._quiz.gifts;
   }
 
   post(quiz: Quiz) {
@@ -61,7 +48,7 @@ export class QuizService {
 
   getAll() {
     return [
-      { id: 'data/spiritualGifts.dev.json', name : 'Spiritual Gifts' }
+      { id: 'data/spiritualGifts.prod.json', name: 'Spiritual Gifts' }
     ];
   }
 }

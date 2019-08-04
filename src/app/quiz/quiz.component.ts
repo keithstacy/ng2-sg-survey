@@ -62,6 +62,7 @@ export class QuizComponent implements OnInit {
   onSelect(question: Question, option: Option) {
     if (question.questionTypeId === 1) {
       question.options.forEach((x) => { if (x.id !== option.id) { x.selected = false; } });
+      question.score = question.options.filter(q => q.selected === true)[0].value;
     }
 
     if (this.config.autoMove) {
@@ -86,7 +87,6 @@ export class QuizComponent implements OnInit {
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered }));
     this.quizService.post(this.quiz);
     this.quizScore = this.quizService.getScore();
-    prompt(this.quizScore);
     console.log('onSubmit');
     this.mode = 'result';
   }

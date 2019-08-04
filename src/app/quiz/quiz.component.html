@@ -48,7 +48,7 @@
     <h2>Survey Result</h2>
     <div>
       <h4 class="alert alert-info text-center">Your top three results are:</h4>
-      <div *ngFor="let gift of quiz.gifts">{{gift.name}}</div>
+      <div *ngFor="let gift of quiz.gifts">{{gift.name}}: {{gift.score}}</div>
     </div>
     <div *ngFor="let question of quiz.questions; let index = index">
       <div class="result-question">
