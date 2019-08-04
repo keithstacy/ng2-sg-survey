@@ -4,6 +4,7 @@ export class Gift {
   description: string;
   score: number;
   key: string;
+  band: string;
 
   constructor(data: any) {
     if (data) {
@@ -12,6 +13,7 @@ export class Gift {
       this.description = data.description;
       this.score = data.score;
       this.key = data.key;
+      this.band = '';
     }
   }
 }
