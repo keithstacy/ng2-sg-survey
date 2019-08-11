@@ -12,7 +12,6 @@
 <div id="quiz">
   <h2 class="text-center font-weight-normal">{{quiz.name}}</h2>
   <hr />
-
   <div *ngIf="mode=='quiz' && quiz">
     <div *ngFor="let question of quiz.questions;">
       <div class="badge badge-info">Question {{question.sequenceNumber}} of {{pager.count}}.</div>

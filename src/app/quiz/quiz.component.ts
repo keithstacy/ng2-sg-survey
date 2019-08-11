@@ -60,6 +60,8 @@ export class QuizComponent implements OnInit {
   }
 
   onSelect(question: Question, option: Option) {
+    console.log(question);
+    console.log(option);
     if (question.questionTypeId === 1) {
       question.options.forEach((x) => { if (x.id !== option.id) { x.selected = false; } });
       question.score = question.options.filter(q => q.selected === true)[0].value;
