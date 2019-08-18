@@ -12,7 +12,7 @@
         {
           "id": 112055,
           "questionId": 1,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "a",
           "isAnswer": true
@@ -20,7 +20,7 @@
         {
           "id": 12056,
           "questionId": 1,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "a",
           "isAnswer": true
@@ -28,7 +28,7 @@
         {
           "id": 12057,
           "questionId": 1,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "a",
           "isAnswer": true
@@ -36,7 +36,7 @@
         {
           "id": 12058,
           "questionId": 1,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "a",
           "isAnswer": true
@@ -57,7 +57,7 @@
         {
           "id": 22059,
           "questionId": 2,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -65,7 +65,7 @@
         {
           "id": 22060,
           "questionId": 2,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -73,7 +73,7 @@
         {
           "id": 22061,
           "questionId": 2,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -81,7 +81,7 @@
         {
           "id": 22062,
           "questionId": 2,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -102,7 +102,7 @@
         {
           "id": 32063,
           "questionId": 3,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -110,7 +110,7 @@
         {
           "id": 32064,
           "questionId": 3,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -118,7 +118,7 @@
         {
           "id": 32065,
           "questionId": 3,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -126,7 +126,7 @@
         {
           "id": 32066,
           "questionId": 3,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -148,7 +148,7 @@
         {
           "id": 42067,
           "questionId": 4,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -156,7 +156,7 @@
         {
           "id": 42068,
           "questionId": 4,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -164,7 +164,7 @@
         {
           "id": 42069,
           "questionId": 4,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -172,7 +172,7 @@
         {
           "id": 42070,
           "questionId": 4,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -193,7 +193,7 @@
         {
           "id": 52071,
           "questionId": 5,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -201,7 +201,7 @@
         {
           "id": 52072,
           "questionId": 5,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -209,7 +209,7 @@
         {
           "id": 52073,
           "questionId": 5,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -217,7 +217,7 @@
         {
           "id": 52074,
           "questionId": 5,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -238,7 +238,7 @@
         {
           "id": 62075,
           "questionId": 6,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -246,7 +246,7 @@
         {
           "id": 62076,
           "questionId": 6,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -254,7 +254,7 @@
         {
           "id": 62077,
           "questionId": 6,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -262,7 +262,7 @@
         {
           "id": 62078,
           "questionId": 6,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -284,7 +284,7 @@
         {
           "id": 72079,
           "questionId": 7,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -292,7 +292,7 @@
         {
           "id": 72080,
           "questionId": 7,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -300,7 +300,7 @@
         {
           "id": 72081,
           "questionId": 7,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -308,7 +308,7 @@
         {
           "id": 72082,
           "questionId": 7,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -329,7 +329,7 @@
         {
           "id": 82083,
           "questionId": 8,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -337,7 +337,7 @@
         {
           "id": 82084,
           "questionId": 8,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -345,7 +345,7 @@
         {
           "id": 82085,
           "questionId": 8,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -353,7 +353,7 @@
         {
           "id": 82086,
           "questionId": 8,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -374,7 +374,7 @@
         {
           "id": 92087,
           "questionId": 9,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -382,7 +382,7 @@
         {
           "id": 92088,
           "questionId": 9,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -390,7 +390,7 @@
         {
           "id": 92089,
           "questionId": 9,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -398,7 +398,7 @@
         {
           "id": 92090,
           "questionId": 9,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -419,7 +419,7 @@
         {
           "id": 102091,
           "questionId": 10,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -427,7 +427,7 @@
         {
           "id": 102092,
           "questionId": 10,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -435,7 +435,7 @@
         {
           "id": 102093,
           "questionId": 10,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -443,7 +443,7 @@
         {
           "id": 102094,
           "questionId": 10,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -464,7 +464,7 @@
         {
           "id": 112091,
           "questionId": 11,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -472,7 +472,7 @@
         {
           "id": 112092,
           "questionId": 11,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -480,7 +480,7 @@
         {
           "id": 112093,
           "questionId": 11,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -488,7 +488,7 @@
         {
           "id": 112094,
           "questionId": 11,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly&#8203;/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -509,7 +509,7 @@
         {
           "id": 122091,
           "questionId": 12,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -517,7 +517,7 @@
         {
           "id": 122092,
           "questionId": 12,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -525,7 +525,7 @@
         {
           "id": 122093,
           "questionId": 12,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -533,7 +533,7 @@
         {
           "id": 122094,
           "questionId": 12,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -554,7 +554,7 @@
         {
           "id": 132091,
           "questionId": 13,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -562,7 +562,7 @@
         {
           "id": 132092,
           "questionId": 13,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -570,7 +570,7 @@
         {
           "id": 132093,
           "questionId": 13,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -578,7 +578,7 @@
         {
           "id": 132094,
           "questionId": 13,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -599,7 +599,7 @@
         {
           "id": 142091,
           "questionId": 14,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -607,7 +607,7 @@
         {
           "id": 142092,
           "questionId": 14,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -615,7 +615,7 @@
         {
           "id": 142093,
           "questionId": 14,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -623,7 +623,7 @@
         {
           "id": 142094,
           "questionId": 14,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -644,7 +644,7 @@
         {
           "id": 152091,
           "questionId": 15,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -652,7 +652,7 @@
         {
           "id": 152092,
           "questionId": 15,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -660,7 +660,7 @@
         {
           "id": 152093,
           "questionId": 15,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -668,7 +668,7 @@
         {
           "id": 152094,
           "questionId": 15,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -689,7 +689,7 @@
         {
           "id": 162091,
           "questionId": 16,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -697,7 +697,7 @@
         {
           "id": 162092,
           "questionId": 16,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -705,7 +705,7 @@
         {
           "id": 162093,
           "questionId": 16,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -713,7 +713,7 @@
         {
           "id": 162094,
           "questionId": 16,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -734,7 +734,7 @@
         {
           "id": 172091,
           "questionId": 17,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -742,7 +742,7 @@
         {
           "id": 172092,
           "questionId": 17,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -750,7 +750,7 @@
         {
           "id": 172093,
           "questionId": 17,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -758,7 +758,7 @@
         {
           "id": 172094,
           "questionId": 17,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -779,7 +779,7 @@
         {
           "id": 182091,
           "questionId": 18,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -787,7 +787,7 @@
         {
           "id": 182092,
           "questionId": 18,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -795,7 +795,7 @@
         {
           "id": 182093,
           "questionId": 18,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -803,7 +803,7 @@
         {
           "id": 182094,
           "questionId": 18,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -824,7 +824,7 @@
         {
           "id": 192091,
           "questionId": 19,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -832,7 +832,7 @@
         {
           "id": 192092,
           "questionId": 19,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -840,7 +840,7 @@
         {
           "id": 192093,
           "questionId": 19,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -848,7 +848,7 @@
         {
           "id": 192094,
           "questionId": 19,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -869,7 +869,7 @@
         {
           "id": 202091,
           "questionId": 20,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -877,7 +877,7 @@
         {
           "id": 202092,
           "questionId": 20,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -885,7 +885,7 @@
         {
           "id": 202093,
           "questionId": 20,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -893,7 +893,7 @@
         {
           "id": 202094,
           "questionId": 20,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -914,7 +914,7 @@
         {
           "id": 212091,
           "questionId": 21,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -922,7 +922,7 @@
         {
           "id": 212092,
           "questionId": 21,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -930,7 +930,7 @@
         {
           "id": 212093,
           "questionId": 21,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -938,7 +938,7 @@
         {
           "id": 212094,
           "questionId": 21,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -959,7 +959,7 @@
         {
           "id": 222091,
           "questionId": 22,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -967,7 +967,7 @@
         {
           "id": 222092,
           "questionId": 22,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -975,7 +975,7 @@
         {
           "id": 222093,
           "questionId": 22,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -983,7 +983,7 @@
         {
           "id": 222094,
           "questionId": 22,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1004,7 +1004,7 @@
         {
           "id": 232091,
           "questionId": 23,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1012,7 +1012,7 @@
         {
           "id": 232092,
           "questionId": 23,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1020,7 +1020,7 @@
         {
           "id": 232093,
           "questionId": 23,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1028,7 +1028,7 @@
         {
           "id": 232094,
           "questionId": 23,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1049,7 +1049,7 @@
         {
           "id": 242091,
           "questionId": 24,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1057,7 +1057,7 @@
         {
           "id": 242092,
           "questionId": 24,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1065,7 +1065,7 @@
         {
           "id": 242093,
           "questionId": 24,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1073,7 +1073,7 @@
         {
           "id": 242094,
           "questionId": 24,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1094,7 +1094,7 @@
         {
           "id": 252091,
           "questionId": 25,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1102,7 +1102,7 @@
         {
           "id": 252092,
           "questionId": 25,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1110,7 +1110,7 @@
         {
           "id": 252093,
           "questionId": 25,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1118,7 +1118,7 @@
         {
           "id": 252094,
           "questionId": 25,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1139,7 +1139,7 @@
         {
           "id": 262091,
           "questionId": 26,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1147,7 +1147,7 @@
         {
           "id": 262092,
           "questionId": 26,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1155,7 +1155,7 @@
         {
           "id": 262093,
           "questionId": 26,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1163,7 +1163,7 @@
         {
           "id": 262094,
           "questionId": 26,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1184,7 +1184,7 @@
         {
           "id": 272091,
           "questionId": 27,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1192,7 +1192,7 @@
         {
           "id": 272092,
           "questionId": 27,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1200,7 +1200,7 @@
         {
           "id": 272093,
           "questionId": 27,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1208,7 +1208,7 @@
         {
           "id": 272094,
           "questionId": 27,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1229,7 +1229,7 @@
         {
           "id": 282091,
           "questionId": 28,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1237,7 +1237,7 @@
         {
           "id": 282092,
           "questionId": 28,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1245,7 +1245,7 @@
         {
           "id": 282093,
           "questionId": 28,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1253,7 +1253,7 @@
         {
           "id": 282094,
           "questionId": 28,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1274,7 +1274,7 @@
         {
           "id": 292091,
           "questionId": 29,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1282,7 +1282,7 @@
         {
           "id": 292092,
           "questionId": 29,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1290,7 +1290,7 @@
         {
           "id": 292093,
           "questionId": 29,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1298,7 +1298,7 @@
         {
           "id": 292094,
           "questionId": 29,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1319,7 +1319,7 @@
         {
           "id": 302091,
           "questionId": 30,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1327,7 +1327,7 @@
         {
           "id": 302092,
           "questionId": 30,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1335,7 +1335,7 @@
         {
           "id": 302093,
           "questionId": 30,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1343,7 +1343,7 @@
         {
           "id": 302094,
           "questionId": 30,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1364,7 +1364,7 @@
         {
           "id": 312091,
           "questionId": 31,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1372,7 +1372,7 @@
         {
           "id": 312092,
           "questionId": 31,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1380,7 +1380,7 @@
         {
           "id": 312093,
           "questionId": 31,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1388,7 +1388,7 @@
         {
           "id": 312094,
           "questionId": 31,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1409,7 +1409,7 @@
         {
           "id": 322091,
           "questionId": 32,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1417,7 +1417,7 @@
         {
           "id": 322092,
           "questionId": 32,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1425,7 +1425,7 @@
         {
           "id": 322093,
           "questionId": 32,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1433,7 +1433,7 @@
         {
           "id": 322094,
           "questionId": 32,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1454,7 +1454,7 @@
         {
           "id": 332091,
           "questionId": 33,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1462,7 +1462,7 @@
         {
           "id": 332092,
           "questionId": 33,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1470,7 +1470,7 @@
         {
           "id": 332093,
           "questionId": 33,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1478,7 +1478,7 @@
         {
           "id": 332094,
           "questionId": 33,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1499,7 +1499,7 @@
         {
           "id": 342091,
           "questionId": 34,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1507,7 +1507,7 @@
         {
           "id": 342092,
           "questionId": 34,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1515,7 +1515,7 @@
         {
           "id": 342093,
           "questionId": 34,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1523,7 +1523,7 @@
         {
           "id": 342094,
           "questionId": 34,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1544,7 +1544,7 @@
         {
           "id": 352091,
           "questionId": 35,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1552,7 +1552,7 @@
         {
           "id": 352092,
           "questionId": 35,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1560,7 +1560,7 @@
         {
           "id": 352093,
           "questionId": 35,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1568,7 +1568,7 @@
         {
           "id": 352094,
           "questionId": 35,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1589,7 +1589,7 @@
         {
           "id": 362091,
           "questionId": 36,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1597,7 +1597,7 @@
         {
           "id": 362092,
           "questionId": 36,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1605,7 +1605,7 @@
         {
           "id": 362093,
           "questionId": 36,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1613,7 +1613,7 @@
         {
           "id": 362094,
           "questionId": 36,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1634,7 +1634,7 @@
         {
           "id": 372091,
           "questionId": 37,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1642,7 +1642,7 @@
         {
           "id": 372092,
           "questionId": 37,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1650,7 +1650,7 @@
         {
           "id": 372093,
           "questionId": 37,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1658,7 +1658,7 @@
         {
           "id": 372094,
           "questionId": 37,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1679,7 +1679,7 @@
         {
           "id": 382091,
           "questionId": 38,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1687,7 +1687,7 @@
         {
           "id": 382092,
           "questionId": 38,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1695,7 +1695,7 @@
         {
           "id": 382093,
           "questionId": 38,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1703,7 +1703,7 @@
         {
           "id": 382094,
           "questionId": 38,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1724,7 +1724,7 @@
         {
           "id": 392091,
           "questionId": 39,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1732,7 +1732,7 @@
         {
           "id": 392092,
           "questionId": 39,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1740,7 +1740,7 @@
         {
           "id": 392093,
           "questionId": 39,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1748,7 +1748,7 @@
         {
           "id": 392094,
           "questionId": 39,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1769,7 +1769,7 @@
         {
           "id": 402091,
           "questionId": 40,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1777,7 +1777,7 @@
         {
           "id": 402092,
           "questionId": 40,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1785,7 +1785,7 @@
         {
           "id": 402093,
           "questionId": 40,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1793,7 +1793,7 @@
         {
           "id": 402094,
           "questionId": 40,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1814,7 +1814,7 @@
         {
           "id": 412091,
           "questionId": 41,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1822,7 +1822,7 @@
         {
           "id": 412092,
           "questionId": 41,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1830,7 +1830,7 @@
         {
           "id": 412093,
           "questionId": 41,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1838,7 +1838,7 @@
         {
           "id": 412094,
           "questionId": 41,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1859,7 +1859,7 @@
         {
           "id": 422091,
           "questionId": 42,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1867,7 +1867,7 @@
         {
           "id": 422092,
           "questionId": 42,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1875,7 +1875,7 @@
         {
           "id": 422093,
           "questionId": 42,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1883,7 +1883,7 @@
         {
           "id": 422094,
           "questionId": 42,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1904,7 +1904,7 @@
         {
           "id": 432091,
           "questionId": 43,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1912,7 +1912,7 @@
         {
           "id": 432092,
           "questionId": 43,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1920,7 +1920,7 @@
         {
           "id": 432093,
           "questionId": 43,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1928,7 +1928,7 @@
         {
           "id": 432094,
           "questionId": 43,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1949,7 +1949,7 @@
         {
           "id": 442091,
           "questionId": 44,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -1957,7 +1957,7 @@
         {
           "id": 442092,
           "questionId": 44,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -1965,7 +1965,7 @@
         {
           "id": 442093,
           "questionId": 44,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -1973,7 +1973,7 @@
         {
           "id": 442094,
           "questionId": 44,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -1994,7 +1994,7 @@
         {
           "id": 452091,
           "questionId": 45,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2002,7 +2002,7 @@
         {
           "id": 452092,
           "questionId": 45,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2010,7 +2010,7 @@
         {
           "id": 452093,
           "questionId": 45,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2018,7 +2018,7 @@
         {
           "id": 452094,
           "questionId": 45,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2039,7 +2039,7 @@
         {
           "id": 462091,
           "questionId": 46,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2047,7 +2047,7 @@
         {
           "id": 462092,
           "questionId": 46,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2055,7 +2055,7 @@
         {
           "id": 462093,
           "questionId": 46,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2063,7 +2063,7 @@
         {
           "id": 462094,
           "questionId": 46,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2084,7 +2084,7 @@
         {
           "id": 472091,
           "questionId": 47,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2092,7 +2092,7 @@
         {
           "id": 472092,
           "questionId": 47,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2100,7 +2100,7 @@
         {
           "id": 472093,
           "questionId": 47,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2108,7 +2108,7 @@
         {
           "id": 472094,
           "questionId": 47,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2122,14 +2122,14 @@
     },
     {
       "id": 48,
-      "text": "I am usually chosen as the group’s spokesperson when in discussion groups.",
+      "text": "I am Us\u00ADu\u00ADal\u00ADly chosen as the group’s spokesperson when in discussion groups.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
         {
           "id": 482091,
           "questionId": 48,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2137,7 +2137,7 @@
         {
           "id": 482092,
           "questionId": 48,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2145,7 +2145,7 @@
         {
           "id": 482093,
           "questionId": 48,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2153,7 +2153,7 @@
         {
           "id": 482094,
           "questionId": 48,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2174,7 +2174,7 @@
         {
           "id": 492091,
           "questionId": 49,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2182,7 +2182,7 @@
         {
           "id": 492092,
           "questionId": 49,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2190,7 +2190,7 @@
         {
           "id": 492093,
           "questionId": 49,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2198,7 +2198,7 @@
         {
           "id": 492094,
           "questionId": 49,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2219,7 +2219,7 @@
         {
           "id": 502091,
           "questionId": 50,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2227,7 +2227,7 @@
         {
           "id": 502092,
           "questionId": 50,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2235,7 +2235,7 @@
         {
           "id": 502093,
           "questionId": 50,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2243,7 +2243,7 @@
         {
           "id": 502094,
           "questionId": 50,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2264,7 +2264,7 @@
         {
           "id": 512091,
           "questionId": 51,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2272,7 +2272,7 @@
         {
           "id": 512092,
           "questionId": 51,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2280,7 +2280,7 @@
         {
           "id": 512093,
           "questionId": 51,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2288,7 +2288,7 @@
         {
           "id": 512094,
           "questionId": 51,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2309,7 +2309,7 @@
         {
           "id": 522091,
           "questionId": 52,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2317,7 +2317,7 @@
         {
           "id": 522092,
           "questionId": 52,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2325,7 +2325,7 @@
         {
           "id": 522093,
           "questionId": 52,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2333,7 +2333,7 @@
         {
           "id": 522094,
           "questionId": 52,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2354,7 +2354,7 @@
         {
           "id": 532091,
           "questionId": 53,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2362,7 +2362,7 @@
         {
           "id": 532092,
           "questionId": 53,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2370,7 +2370,7 @@
         {
           "id": 532093,
           "questionId": 53,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2378,7 +2378,7 @@
         {
           "id": 532094,
           "questionId": 53,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2399,7 +2399,7 @@
         {
           "id": 542091,
           "questionId": 54,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2407,7 +2407,7 @@
         {
           "id": 542092,
           "questionId": 54,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2415,7 +2415,7 @@
         {
           "id": 542093,
           "questionId": 54,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2423,7 +2423,7 @@
         {
           "id": 542094,
           "questionId": 54,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2444,7 +2444,7 @@
         {
           "id": 552091,
           "questionId": 55,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2452,7 +2452,7 @@
         {
           "id": 552092,
           "questionId": 55,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2460,7 +2460,7 @@
         {
           "id": 552093,
           "questionId": 55,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2468,7 +2468,7 @@
         {
           "id": 552094,
           "questionId": 55,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2489,7 +2489,7 @@
         {
           "id": 562091,
           "questionId": 56,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2497,7 +2497,7 @@
         {
           "id": 562092,
           "questionId": 56,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2505,7 +2505,7 @@
         {
           "id": 562093,
           "questionId": 56,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2513,7 +2513,7 @@
         {
           "id": 562094,
           "questionId": 56,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2534,7 +2534,7 @@
         {
           "id": 572091,
           "questionId": 57,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2542,7 +2542,7 @@
         {
           "id": 572092,
           "questionId": 57,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2550,7 +2550,7 @@
         {
           "id": 572093,
           "questionId": 57,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2558,7 +2558,7 @@
         {
           "id": 572094,
           "questionId": 57,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2579,7 +2579,7 @@
         {
           "id": 582091,
           "questionId": 58,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2587,7 +2587,7 @@
         {
           "id": 582092,
           "questionId": 58,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2595,7 +2595,7 @@
         {
           "id": 582093,
           "questionId": 58,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2603,7 +2603,7 @@
         {
           "id": 582094,
           "questionId": 58,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2624,7 +2624,7 @@
         {
           "id": 592091,
           "questionId": 59,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2632,7 +2632,7 @@
         {
           "id": 592092,
           "questionId": 59,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2640,7 +2640,7 @@
         {
           "id": 592093,
           "questionId": 59,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2648,7 +2648,7 @@
         {
           "id": 592094,
           "questionId": 59,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2669,7 +2669,7 @@
         {
           "id": 602091,
           "questionId": 60,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2677,7 +2677,7 @@
         {
           "id": 602092,
           "questionId": 60,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2685,7 +2685,7 @@
         {
           "id": 602093,
           "questionId": 60,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2693,7 +2693,7 @@
         {
           "id": 602094,
           "questionId": 60,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2714,7 +2714,7 @@
         {
           "id": 612091,
           "questionId": 61,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2722,7 +2722,7 @@
         {
           "id": 612092,
           "questionId": 61,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2730,7 +2730,7 @@
         {
           "id": 612093,
           "questionId": 61,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2738,7 +2738,7 @@
         {
           "id": 612094,
           "questionId": 61,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2759,7 +2759,7 @@
         {
           "id": 622091,
           "questionId": 62,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2767,7 +2767,7 @@
         {
           "id": 622092,
           "questionId": 62,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2775,7 +2775,7 @@
         {
           "id": 622093,
           "questionId": 62,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2783,7 +2783,7 @@
         {
           "id": 622094,
           "questionId": 62,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2804,7 +2804,7 @@
         {
           "id": 632091,
           "questionId": 63,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2812,7 +2812,7 @@
         {
           "id": 632092,
           "questionId": 63,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2820,7 +2820,7 @@
         {
           "id": 632093,
           "questionId": 63,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2828,7 +2828,7 @@
         {
           "id": 632094,
           "questionId": 63,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2849,7 +2849,7 @@
         {
           "id": 642091,
           "questionId": 64,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2857,7 +2857,7 @@
         {
           "id": 642092,
           "questionId": 64,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2865,7 +2865,7 @@
         {
           "id": 642093,
           "questionId": 64,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2873,7 +2873,7 @@
         {
           "id": 642094,
           "questionId": 64,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2894,7 +2894,7 @@
         {
           "id": 652091,
           "questionId": 65,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2902,7 +2902,7 @@
         {
           "id": 652092,
           "questionId": 65,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2910,7 +2910,7 @@
         {
           "id": 652093,
           "questionId": 65,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2918,7 +2918,7 @@
         {
           "id": 652094,
           "questionId": 65,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2939,7 +2939,7 @@
         {
           "id": 662091,
           "questionId": 66,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2947,7 +2947,7 @@
         {
           "id": 662092,
           "questionId": 66,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -2955,7 +2955,7 @@
         {
           "id": 662093,
           "questionId": 66,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -2963,7 +2963,7 @@
         {
           "id": 662094,
           "questionId": 66,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -2984,7 +2984,7 @@
         {
           "id": 672091,
           "questionId": 67,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -2992,7 +2992,7 @@
         {
           "id": 672092,
           "questionId": 67,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3000,7 +3000,7 @@
         {
           "id": 672093,
           "questionId": 67,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3008,7 +3008,7 @@
         {
           "id": 672094,
           "questionId": 67,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3029,7 +3029,7 @@
         {
           "id": 682091,
           "questionId": 68,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3037,7 +3037,7 @@
         {
           "id": 682092,
           "questionId": 68,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3045,7 +3045,7 @@
         {
           "id": 682093,
           "questionId": 68,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3053,7 +3053,7 @@
         {
           "id": 682094,
           "questionId": 68,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3074,7 +3074,7 @@
         {
           "id": 692091,
           "questionId": 69,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3082,7 +3082,7 @@
         {
           "id": 692092,
           "questionId": 69,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3090,7 +3090,7 @@
         {
           "id": 692093,
           "questionId": 69,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3098,7 +3098,7 @@
         {
           "id": 692094,
           "questionId": 69,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3119,7 +3119,7 @@
         {
           "id": 702091,
           "questionId": 70,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3127,7 +3127,7 @@
         {
           "id": 702092,
           "questionId": 70,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3135,7 +3135,7 @@
         {
           "id": 702093,
           "questionId": 70,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3143,7 +3143,7 @@
         {
           "id": 702094,
           "questionId": 70,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3164,7 +3164,7 @@
         {
           "id": 712091,
           "questionId": 71,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3172,7 +3172,7 @@
         {
           "id": 712092,
           "questionId": 71,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3180,7 +3180,7 @@
         {
           "id": 712093,
           "questionId": 71,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3188,7 +3188,7 @@
         {
           "id": 712094,
           "questionId": 71,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3209,7 +3209,7 @@
         {
           "id": 722091,
           "questionId": 72,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3217,7 +3217,7 @@
         {
           "id": 722092,
           "questionId": 72,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3225,7 +3225,7 @@
         {
           "id": 722093,
           "questionId": 72,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3233,7 +3233,7 @@
         {
           "id": 722094,
           "questionId": 72,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3254,7 +3254,7 @@
         {
           "id": 732091,
           "questionId": 73,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3262,7 +3262,7 @@
         {
           "id": 732092,
           "questionId": 73,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3270,7 +3270,7 @@
         {
           "id": 732093,
           "questionId": 73,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3278,7 +3278,7 @@
         {
           "id": 732094,
           "questionId": 73,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3299,7 +3299,7 @@
         {
           "id": 742091,
           "questionId": 74,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3307,7 +3307,7 @@
         {
           "id": 742092,
           "questionId": 74,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3315,7 +3315,7 @@
         {
           "id": 742093,
           "questionId": 74,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3323,7 +3323,7 @@
         {
           "id": 742094,
           "questionId": 74,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3344,7 +3344,7 @@
         {
           "id": 752091,
           "questionId": 75,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3352,7 +3352,7 @@
         {
           "id": 752092,
           "questionId": 75,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3360,7 +3360,7 @@
         {
           "id": 752093,
           "questionId": 75,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3368,7 +3368,7 @@
         {
           "id": 752094,
           "questionId": 75,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3389,7 +3389,7 @@
         {
           "id": 762091,
           "questionId": 76,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3397,7 +3397,7 @@
         {
           "id": 762092,
           "questionId": 76,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3405,7 +3405,7 @@
         {
           "id": 762093,
           "questionId": 76,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3413,7 +3413,7 @@
         {
           "id": 762094,
           "questionId": 76,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3434,7 +3434,7 @@
         {
           "id": 772091,
           "questionId": 77,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3442,7 +3442,7 @@
         {
           "id": 772092,
           "questionId": 77,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3450,7 +3450,7 @@
         {
           "id": 772093,
           "questionId": 77,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3458,7 +3458,7 @@
         {
           "id": 772094,
           "questionId": 77,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3479,7 +3479,7 @@
         {
           "id": 782091,
           "questionId": 78,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3487,7 +3487,7 @@
         {
           "id": 782092,
           "questionId": 78,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3495,7 +3495,7 @@
         {
           "id": 782093,
           "questionId": 78,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3503,7 +3503,7 @@
         {
           "id": 782094,
           "questionId": 78,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3517,14 +3517,14 @@
     },
     {
       "id": 79,
-      "text": "The way I say and do things awakens the truth in others, so they say, 'I have never thought of it that way.'",
+      "text": "The way I say and do things awakens the truth in others, so they say, 'I have Nev\u00ADer thought of it that way.'",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
         {
           "id": 792091,
           "questionId": 79,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3532,7 +3532,7 @@
         {
           "id": 792092,
           "questionId": 79,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3540,7 +3540,7 @@
         {
           "id": 792093,
           "questionId": 79,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3548,7 +3548,7 @@
         {
           "id": 792094,
           "questionId": 79,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3569,7 +3569,7 @@
         {
           "id": 802091,
           "questionId": 80,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3577,7 +3577,7 @@
         {
           "id": 802092,
           "questionId": 80,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3585,7 +3585,7 @@
         {
           "id": 802093,
           "questionId": 80,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3593,7 +3593,7 @@
         {
           "id": 802094,
           "questionId": 80,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3614,7 +3614,7 @@
         {
           "id": 812091,
           "questionId": 81,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3622,7 +3622,7 @@
         {
           "id": 812092,
           "questionId": 81,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3630,7 +3630,7 @@
         {
           "id": 812093,
           "questionId": 81,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3638,7 +3638,7 @@
         {
           "id": 812094,
           "questionId": 81,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3659,7 +3659,7 @@
         {
           "id": 822091,
           "questionId": 82,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3667,7 +3667,7 @@
         {
           "id": 822092,
           "questionId": 82,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3675,7 +3675,7 @@
         {
           "id": 822093,
           "questionId": 82,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3683,7 +3683,7 @@
         {
           "id": 822094,
           "questionId": 82,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3704,7 +3704,7 @@
         {
           "id": 832091,
           "questionId": 83,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3712,7 +3712,7 @@
         {
           "id": 832092,
           "questionId": 83,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3720,7 +3720,7 @@
         {
           "id": 832093,
           "questionId": 83,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3728,7 +3728,7 @@
         {
           "id": 832094,
           "questionId": 83,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3749,7 +3749,7 @@
         {
           "id": 842091,
           "questionId": 84,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3757,7 +3757,7 @@
         {
           "id": 842092,
           "questionId": 84,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3765,7 +3765,7 @@
         {
           "id": 842093,
           "questionId": 84,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3773,7 +3773,7 @@
         {
           "id": 842094,
           "questionId": 84,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3794,7 +3794,7 @@
         {
           "id": 852091,
           "questionId": 85,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3802,7 +3802,7 @@
         {
           "id": 852092,
           "questionId": 85,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3810,7 +3810,7 @@
         {
           "id": 852093,
           "questionId": 85,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3818,7 +3818,7 @@
         {
           "id": 852094,
           "questionId": 85,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3839,7 +3839,7 @@
         {
           "id": 862091,
           "questionId": 86,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3847,7 +3847,7 @@
         {
           "id": 862092,
           "questionId": 86,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3855,7 +3855,7 @@
         {
           "id": 862093,
           "questionId": 86,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3863,7 +3863,7 @@
         {
           "id": 862094,
           "questionId": 86,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3884,7 +3884,7 @@
         {
           "id": 872091,
           "questionId": 87,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3892,7 +3892,7 @@
         {
           "id": 872092,
           "questionId": 87,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3900,7 +3900,7 @@
         {
           "id": 872093,
           "questionId": 87,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3908,7 +3908,7 @@
         {
           "id": 872094,
           "questionId": 87,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3929,7 +3929,7 @@
         {
           "id": 882091,
           "questionId": 88,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3937,7 +3937,7 @@
         {
           "id": 882092,
           "questionId": 88,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3945,7 +3945,7 @@
         {
           "id": 882093,
           "questionId": 88,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3953,7 +3953,7 @@
         {
           "id": 882094,
           "questionId": 88,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -3974,7 +3974,7 @@
         {
           "id": 892091,
           "questionId": 89,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -3982,7 +3982,7 @@
         {
           "id": 892092,
           "questionId": 89,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -3990,7 +3990,7 @@
         {
           "id": 892093,
           "questionId": 89,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -3998,7 +3998,7 @@
         {
           "id": 892094,
           "questionId": 89,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4019,7 +4019,7 @@
         {
           "id": 902091,
           "questionId": 90,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4027,7 +4027,7 @@
         {
           "id": 902092,
           "questionId": 90,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4035,7 +4035,7 @@
         {
           "id": 902093,
           "questionId": 90,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4043,7 +4043,7 @@
         {
           "id": 902094,
           "questionId": 90,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4064,7 +4064,7 @@
         {
           "id": 912091,
           "questionId": 91,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4072,7 +4072,7 @@
         {
           "id": 912092,
           "questionId": 91,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4080,7 +4080,7 @@
         {
           "id": 912093,
           "questionId": 91,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4088,7 +4088,7 @@
         {
           "id": 912094,
           "questionId": 91,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4109,7 +4109,7 @@
         {
           "id": 922091,
           "questionId": 92,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4117,7 +4117,7 @@
         {
           "id": 922092,
           "questionId": 92,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4125,7 +4125,7 @@
         {
           "id": 922093,
           "questionId": 92,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4133,7 +4133,7 @@
         {
           "id": 922094,
           "questionId": 92,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4154,7 +4154,7 @@
         {
           "id": 932091,
           "questionId": 93,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4162,7 +4162,7 @@
         {
           "id": 932092,
           "questionId": 93,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4170,7 +4170,7 @@
         {
           "id": 932093,
           "questionId": 93,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4178,7 +4178,7 @@
         {
           "id": 932094,
           "questionId": 93,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4199,7 +4199,7 @@
         {
           "id": 942091,
           "questionId": 94,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4207,7 +4207,7 @@
         {
           "id": 942092,
           "questionId": 94,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4215,7 +4215,7 @@
         {
           "id": 942093,
           "questionId": 94,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4223,7 +4223,7 @@
         {
           "id": 942094,
           "questionId": 94,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4244,7 +4244,7 @@
         {
           "id": 952091,
           "questionId": 95,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4252,7 +4252,7 @@
         {
           "id": 952092,
           "questionId": 95,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4260,7 +4260,7 @@
         {
           "id": 952093,
           "questionId": 95,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4268,7 +4268,7 @@
         {
           "id": 952094,
           "questionId": 95,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4289,7 +4289,7 @@
         {
           "id": 962091,
           "questionId": 96,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4297,7 +4297,7 @@
         {
           "id": 962092,
           "questionId": 96,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4305,7 +4305,7 @@
         {
           "id": 962093,
           "questionId": 96,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4313,7 +4313,7 @@
         {
           "id": 962094,
           "questionId": 96,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4334,7 +4334,7 @@
         {
           "id": 972091,
           "questionId": 97,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4342,7 +4342,7 @@
         {
           "id": 972092,
           "questionId": 97,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4350,7 +4350,7 @@
         {
           "id": 972093,
           "questionId": 97,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4358,7 +4358,7 @@
         {
           "id": 972094,
           "questionId": 97,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4379,7 +4379,7 @@
         {
           "id": 982091,
           "questionId": 98,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4387,7 +4387,7 @@
         {
           "id": 982092,
           "questionId": 98,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4395,7 +4395,7 @@
         {
           "id": 982093,
           "questionId": 98,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4403,7 +4403,7 @@
         {
           "id": 982094,
           "questionId": 98,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4424,7 +4424,7 @@
         {
           "id": 992091,
           "questionId": 99,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4432,7 +4432,7 @@
         {
           "id": 992092,
           "questionId": 99,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4440,7 +4440,7 @@
         {
           "id": 992093,
           "questionId": 99,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4448,7 +4448,7 @@
         {
           "id": 992094,
           "questionId": 99,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4469,7 +4469,7 @@
         {
           "id": 1002091,
           "questionId": 100,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4477,7 +4477,7 @@
         {
           "id": 1002092,
           "questionId": 100,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4485,7 +4485,7 @@
         {
           "id": 1002093,
           "questionId": 100,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4493,7 +4493,7 @@
         {
           "id": 1002094,
           "questionId": 100,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4514,7 +4514,7 @@
         {
           "id": 1012091,
           "questionId": 101,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4522,7 +4522,7 @@
         {
           "id": 1012092,
           "questionId": 101,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4530,7 +4530,7 @@
         {
           "id": 1012093,
           "questionId": 101,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4538,7 +4538,7 @@
         {
           "id": 1012094,
           "questionId": 101,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4559,7 +4559,7 @@
         {
           "id": 1022091,
           "questionId": 102,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4567,7 +4567,7 @@
         {
           "id": 1022092,
           "questionId": 102,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4575,7 +4575,7 @@
         {
           "id": 1022093,
           "questionId": 102,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4583,7 +4583,7 @@
         {
           "id": 1022094,
           "questionId": 102,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4604,7 +4604,7 @@
         {
           "id": 1032091,
           "questionId": 103,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4612,7 +4612,7 @@
         {
           "id": 1032092,
           "questionId": 103,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4620,7 +4620,7 @@
         {
           "id": 1032093,
           "questionId": 103,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4628,7 +4628,7 @@
         {
           "id": 1032094,
           "questionId": 103,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4649,7 +4649,7 @@
         {
           "id": 1042091,
           "questionId": 104,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4657,7 +4657,7 @@
         {
           "id": 1042092,
           "questionId": 104,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4665,7 +4665,7 @@
         {
           "id": 1042093,
           "questionId": 104,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4673,7 +4673,7 @@
         {
           "id": 1042094,
           "questionId": 104,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4694,7 +4694,7 @@
         {
           "id": 1052091,
           "questionId": 105,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4702,7 +4702,7 @@
         {
           "id": 1052092,
           "questionId": 105,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4710,7 +4710,7 @@
         {
           "id": 1052093,
           "questionId": 105,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4718,7 +4718,7 @@
         {
           "id": 1052094,
           "questionId": 105,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4739,7 +4739,7 @@
         {
           "id": 1062091,
           "questionId": 106,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4747,7 +4747,7 @@
         {
           "id": 1062092,
           "questionId": 106,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4755,7 +4755,7 @@
         {
           "id": 1062093,
           "questionId": 106,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4763,7 +4763,7 @@
         {
           "id": 1062094,
           "questionId": 106,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4784,7 +4784,7 @@
         {
           "id": 1072091,
           "questionId": 107,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4792,7 +4792,7 @@
         {
           "id": 1072092,
           "questionId": 107,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4800,7 +4800,7 @@
         {
           "id": 1072093,
           "questionId": 107,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4808,7 +4808,7 @@
         {
           "id": 1072094,
           "questionId": 107,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4829,7 +4829,7 @@
         {
           "id": 1082091,
           "questionId": 108,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4837,7 +4837,7 @@
         {
           "id": 1082092,
           "questionId": 108,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4845,7 +4845,7 @@
         {
           "id": 1082093,
           "questionId": 108,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4853,7 +4853,7 @@
         {
           "id": 1082094,
           "questionId": 108,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4874,7 +4874,7 @@
         {
           "id": 1092091,
           "questionId": 109,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4882,7 +4882,7 @@
         {
           "id": 1092092,
           "questionId": 109,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4890,7 +4890,7 @@
         {
           "id": 1092093,
           "questionId": 109,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4898,7 +4898,7 @@
         {
           "id": 1092094,
           "questionId": 109,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4919,7 +4919,7 @@
         {
           "id": 1102091,
           "questionId": 110,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4927,7 +4927,7 @@
         {
           "id": 1102092,
           "questionId": 110,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4935,7 +4935,7 @@
         {
           "id": 1102093,
           "questionId": 110,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4943,7 +4943,7 @@
         {
           "id": 1102094,
           "questionId": 110,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -4964,7 +4964,7 @@
         {
           "id": 1112091,
           "questionId": 111,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -4972,7 +4972,7 @@
         {
           "id": 1112092,
           "questionId": 111,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -4980,7 +4980,7 @@
         {
           "id": 1112093,
           "questionId": 111,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -4988,7 +4988,7 @@
         {
           "id": 1112094,
           "questionId": 111,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5009,7 +5009,7 @@
         {
           "id": 1122091,
           "questionId": 112,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5017,7 +5017,7 @@
         {
           "id": 1122092,
           "questionId": 112,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5025,7 +5025,7 @@
         {
           "id": 1122093,
           "questionId": 112,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5033,7 +5033,7 @@
         {
           "id": 1122094,
           "questionId": 112,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5054,7 +5054,7 @@
         {
           "id": 1132091,
           "questionId": 113,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5062,7 +5062,7 @@
         {
           "id": 1132092,
           "questionId": 113,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5070,7 +5070,7 @@
         {
           "id": 1132093,
           "questionId": 113,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5078,7 +5078,7 @@
         {
           "id": 1132094,
           "questionId": 113,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5099,7 +5099,7 @@
         {
           "id": 1142091,
           "questionId": 114,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5107,7 +5107,7 @@
         {
           "id": 1142092,
           "questionId": 114,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5115,7 +5115,7 @@
         {
           "id": 1142093,
           "questionId": 114,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5123,7 +5123,7 @@
         {
           "id": 1142094,
           "questionId": 114,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5144,7 +5144,7 @@
         {
           "id": 1152091,
           "questionId": 115,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5152,7 +5152,7 @@
         {
           "id": 1152092,
           "questionId": 115,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5160,7 +5160,7 @@
         {
           "id": 1152093,
           "questionId": 115,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5168,7 +5168,7 @@
         {
           "id": 1152094,
           "questionId": 115,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5189,7 +5189,7 @@
         {
           "id": 1162091,
           "questionId": 116,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5197,7 +5197,7 @@
         {
           "id": 1162092,
           "questionId": 116,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5205,7 +5205,7 @@
         {
           "id": 1162093,
           "questionId": 116,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5213,7 +5213,7 @@
         {
           "id": 1162094,
           "questionId": 116,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5234,7 +5234,7 @@
         {
           "id": 1172091,
           "questionId": 117,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5242,7 +5242,7 @@
         {
           "id": 1172092,
           "questionId": 117,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5250,7 +5250,7 @@
         {
           "id": 1172093,
           "questionId": 117,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5258,7 +5258,7 @@
         {
           "id": 1172094,
           "questionId": 117,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5279,7 +5279,7 @@
         {
           "id": 1182091,
           "questionId": 118,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5287,7 +5287,7 @@
         {
           "id": 1182092,
           "questionId": 118,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5295,7 +5295,7 @@
         {
           "id": 1182093,
           "questionId": 118,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5303,7 +5303,7 @@
         {
           "id": 1182094,
           "questionId": 118,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5324,7 +5324,7 @@
         {
           "id": 1192091,
           "questionId": 119,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5332,7 +5332,7 @@
         {
           "id": 1192092,
           "questionId": 119,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5340,7 +5340,7 @@
         {
           "id": 1192093,
           "questionId": 119,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5348,7 +5348,7 @@
         {
           "id": 1192094,
           "questionId": 119,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5369,7 +5369,7 @@
         {
           "id": 1202091,
           "questionId": 120,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5377,7 +5377,7 @@
         {
           "id": 1202092,
           "questionId": 120,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5385,7 +5385,7 @@
         {
           "id": 1202093,
           "questionId": 120,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5393,7 +5393,7 @@
         {
           "id": 1202094,
           "questionId": 120,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5414,7 +5414,7 @@
         {
           "id": 1212091,
           "questionId": 121,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5422,7 +5422,7 @@
         {
           "id": 1212092,
           "questionId": 121,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5430,7 +5430,7 @@
         {
           "id": 1212093,
           "questionId": 121,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5438,7 +5438,7 @@
         {
           "id": 1212094,
           "questionId": 121,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5459,7 +5459,7 @@
         {
           "id": 1222091,
           "questionId": 122,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5467,7 +5467,7 @@
         {
           "id": 1222092,
           "questionId": 122,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5475,7 +5475,7 @@
         {
           "id": 1222093,
           "questionId": 122,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5483,7 +5483,7 @@
         {
           "id": 1222094,
           "questionId": 122,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5504,7 +5504,7 @@
         {
           "id": 1232091,
           "questionId": 123,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5512,7 +5512,7 @@
         {
           "id": 1232092,
           "questionId": 123,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5520,7 +5520,7 @@
         {
           "id": 1232093,
           "questionId": 123,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5528,7 +5528,7 @@
         {
           "id": 1232094,
           "questionId": 123,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5549,7 +5549,7 @@
         {
           "id": 1242091,
           "questionId": 124,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5557,7 +5557,7 @@
         {
           "id": 1242092,
           "questionId": 124,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5565,7 +5565,7 @@
         {
           "id": 1242093,
           "questionId": 124,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5573,7 +5573,7 @@
         {
           "id": 1242094,
           "questionId": 124,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5594,7 +5594,7 @@
         {
           "id": 1252091,
           "questionId": 125,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5602,7 +5602,7 @@
         {
           "id": 1252092,
           "questionId": 125,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5610,7 +5610,7 @@
         {
           "id": 1252093,
           "questionId": 125,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5618,7 +5618,7 @@
         {
           "id": 1252094,
           "questionId": 125,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5639,7 +5639,7 @@
         {
           "id": 1262091,
           "questionId": 126,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5647,7 +5647,7 @@
         {
           "id": 1262092,
           "questionId": 126,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5655,7 +5655,7 @@
         {
           "id": 1262093,
           "questionId": 126,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5663,7 +5663,7 @@
         {
           "id": 1262094,
           "questionId": 126,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5684,7 +5684,7 @@
         {
           "id": 1272091,
           "questionId": 127,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5692,7 +5692,7 @@
         {
           "id": 1272092,
           "questionId": 127,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5700,7 +5700,7 @@
         {
           "id": 1272093,
           "questionId": 127,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5708,7 +5708,7 @@
         {
           "id": 1272094,
           "questionId": 127,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5729,7 +5729,7 @@
         {
           "id": 1282091,
           "questionId": 128,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5737,7 +5737,7 @@
         {
           "id": 1282092,
           "questionId": 128,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5745,7 +5745,7 @@
         {
           "id": 1282093,
           "questionId": 128,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5753,7 +5753,7 @@
         {
           "id": 1282094,
           "questionId": 128,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5774,7 +5774,7 @@
         {
           "id": 1292091,
           "questionId": 129,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5782,7 +5782,7 @@
         {
           "id": 1292092,
           "questionId": 129,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5790,7 +5790,7 @@
         {
           "id": 1292093,
           "questionId": 129,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5798,7 +5798,7 @@
         {
           "id": 1292094,
           "questionId": 129,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5819,7 +5819,7 @@
         {
           "id": 1302091,
           "questionId": 130,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5827,7 +5827,7 @@
         {
           "id": 1302092,
           "questionId": 130,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5835,7 +5835,7 @@
         {
           "id": 1302093,
           "questionId": 130,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5843,7 +5843,7 @@
         {
           "id": 1302094,
           "questionId": 130,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5864,7 +5864,7 @@
         {
           "id": 1312091,
           "questionId": 131,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5872,7 +5872,7 @@
         {
           "id": 1312092,
           "questionId": 131,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5880,7 +5880,7 @@
         {
           "id": 1312093,
           "questionId": 131,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5888,7 +5888,7 @@
         {
           "id": 1312094,
           "questionId": 131,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5909,7 +5909,7 @@
         {
           "id": 1322091,
           "questionId": 132,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5917,7 +5917,7 @@
         {
           "id": 1322092,
           "questionId": 132,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5925,7 +5925,7 @@
         {
           "id": 1322093,
           "questionId": 132,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5933,7 +5933,7 @@
         {
           "id": 1322094,
           "questionId": 132,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5954,7 +5954,7 @@
         {
           "id": 1332091,
           "questionId": 133,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -5962,7 +5962,7 @@
         {
           "id": 1332092,
           "questionId": 133,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -5970,7 +5970,7 @@
         {
           "id": 1332093,
           "questionId": 133,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -5978,7 +5978,7 @@
         {
           "id": 1332094,
           "questionId": 133,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -5999,7 +5999,7 @@
         {
           "id": 1342091,
           "questionId": 134,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -6007,7 +6007,7 @@
         {
           "id": 1342092,
           "questionId": 134,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -6015,7 +6015,7 @@
         {
           "id": 1342093,
           "questionId": 134,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -6023,7 +6023,7 @@
         {
           "id": 1342094,
           "questionId": 134,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -6044,7 +6044,7 @@
         {
           "id": 1352091,
           "questionId": 135,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -6052,7 +6052,7 @@
         {
           "id": 1352092,
           "questionId": 135,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -6060,7 +6060,7 @@
         {
           "id": 1352093,
           "questionId": 135,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -6068,7 +6068,7 @@
         {
           "id": 1352094,
           "questionId": 135,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -6089,7 +6089,7 @@
         {
           "id": 1362091,
           "questionId": 136,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -6097,7 +6097,7 @@
         {
           "id": 1362092,
           "questionId": 136,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -6105,7 +6105,7 @@
         {
           "id": 1362093,
           "questionId": 136,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -6113,7 +6113,7 @@
         {
           "id": 1362094,
           "questionId": 136,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
@@ -6134,7 +6134,7 @@
         {
           "id": 1372091,
           "questionId": 137,
-          "text": "Never/Not at all",
+          "text": "Nev\u00ADer/\u200BNot at all",
           "value": 0,
           "gift": "",
           "isAnswer": true
@@ -6142,7 +6142,7 @@
         {
           "id": 1372092,
           "questionId": 137,
-          "text": "Some of the time/Once in a while",
+          "text": "Some of the time/\u200BOnce in a while",
           "value": 1,
           "gift": "",
           "isAnswer": true
@@ -6150,7 +6150,7 @@
         {
           "id": 1372093,
           "questionId": 137,
-          "text": "Most of the time/Usually true",
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
           "value": 2,
           "gift": "",
           "isAnswer": true
@@ -6158,7 +6158,7 @@
         {
           "id": 1372094,
           "questionId": 137,
-          "text": "Consistently/Definitely true",
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
           "value": 3,
           "gift": "",
           "isAnswer": true
