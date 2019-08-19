@@ -35,7 +35,6 @@ export class QuizService {
   }
 
   private calculateBand(score: number): string {
-    console.log('score: ' + score);
     let band = '';
     switch (score) {
       case 15:

@@ -4,14 +4,21 @@
 
 .option{
     background-color:#cadaee;
-    font-size:20px;
+    /* font-size:2.5vw; */
     padding:10px;
     margin:3px;
+    height:12vw;
+    width:100%;
 }
-    #quiz .options input[type=checkbox] {
-        height:22px;
-        width:22px;
-    }
+
+.badge-flex {
+  font-size:2vw;
+}
+
+#quiz .options input[type=checkbox] {
+    height:22px;
+    width:22px;
+}
 
 .cursor-pointer{
     cursor: pointer;
@@ -23,6 +30,10 @@
     padding:6px;
 }
 
+.question-size {
+    font-size: 3.25vw;
+}
+
 @media only screen and (max-width: 480px) {
     h1,.h1{
         font-size:22px;
@@ -31,7 +42,7 @@
         font-size:20px;
     }
     h3,.h3{
-        font-size:18px;
+        font-size:1px;
     }
     .option {
         font-size: 16px;

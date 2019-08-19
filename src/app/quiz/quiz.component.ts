@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { QuizService } from '../services/quiz.service';
-import { Option, Question, Quiz, QuizConfig, Gift, GiftScore, Score } from '../models/index';
+import { Option, Question, Quiz, QuizConfig, Gift } from '../models/index';
 
 @Component({
   selector: 'app-quiz',
@@ -35,10 +35,9 @@ export class QuizComponent implements OnInit {
   };
   quizScore: any;
 
-  constructor(private quizService: QuizService) { console.log('Constructor'); }
+  constructor(private quizService: QuizService) { }
 
   ngOnInit() {
-    console.log('ngOnInit');
     this.quizzes = this.quizService.getAll();
     this.quizName = this.quizzes[0].id;
     this.loadQuiz(this.quizName);
@@ -50,7 +49,6 @@ export class QuizComponent implements OnInit {
       this.quiz = new Quiz(res);
       this.pager.count = this.quiz.questions.length;
     });
-    console.log(obj);
     this.mode = 'quiz';
   }
 
@@ -60,8 +58,6 @@ export class QuizComponent implements OnInit {
   }
 
   onSelect(question: Question, option: Option) {
-    console.log(question);
-    console.log(option);
     if (question.questionTypeId === 1) {
       question.options.forEach((x) => { if (x.id !== option.id) { x.selected = false; } });
       question.score = question.options.filter(q => q.selected === true)[0].value;
@@ -89,7 +85,6 @@ export class QuizComponent implements OnInit {
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered }));
     this.quizService.post(this.quiz);
     this.quizScore = this.quizService.getScore();
-    console.log('onSubmit');
     this.mode = 'result';
   }
 }
