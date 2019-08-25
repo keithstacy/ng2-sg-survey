@@ -18,6 +18,18 @@
 #quiz .options input[type=checkbox] {
     height:22px;
     width:22px;
+    float:inline-start;
+    margin-block: 0px 40px;
+}
+
+.label {
+  /* display: inline-block; */
+  text-align:left;
+  height:5vw;
+}
+
+.question {
+  margin-top:5px;
 }
 
 .cursor-pointer{
@@ -35,7 +47,7 @@
 }
 
 /* Smallest formats */
-@media only screen and (min-width: 100px) and (max-width: 300px) {
+@media only screen and (max-width: 300px) {
     h1,.h1{
       font-size:22px;
     }
@@ -46,9 +58,8 @@
       font-size:4vw;
     }
     .option {
-      background-color: white;
-      font-size: 3vw;
-      padding: 6px;
+      font-size: 4vw;
+      height: 25vw;
     }
 }
 /* Tablets */
@@ -63,9 +74,8 @@
     font-size:4vw;
   }
   .option {
-    background-color:white;
     font-size: 4vw;
-    padding: 0;
+    height:25vw;
   }
   .badge {
     visibility: hidden;
