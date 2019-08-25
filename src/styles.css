@@ -34,6 +34,7 @@
     font-size: 3.25vw;
 }
 
+/* Smallest formats */
 @media only screen and (min-width: 100px) and (max-width: 300px) {
     h1,.h1{
       font-size:22px;
@@ -50,7 +51,7 @@
       padding: 6px;
     }
 }
-
+/* Tablets */
 @media only screen and (min-width: 301px) and (max-width: 400px) {
   h1,.h1{
     font-size:2px;
@@ -77,6 +78,7 @@
   }
 
 }
+/* Midsize screens */
 @media only screen and (min-width: 401px) and (max-width: 500px) {
   h1,.h1{
     font-size:2px;
@@ -92,6 +94,7 @@
     padding: 6px;
   }
 }
+/* Largest formats */
 @media only screen and (min-width: 501px) {
   h1,.h1{
     font-size:20px;
