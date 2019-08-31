@@ -61,7 +61,16 @@
       font-size: 4vw;
       height: 25vw;
     }
-}
+    .badge {
+      visibility: hidden;
+    }
+    .badge-info {
+      visibility: hidden;
+    }
+    .badge-flex {
+      visibility: hidden;
+    }
+  }
 /* Tablets */
 @media only screen and (min-width: 301px) and (max-width: 400px) {
   h1,.h1{
