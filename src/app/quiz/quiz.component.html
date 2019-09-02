@@ -18,12 +18,11 @@
       <h3 class="font-weight-normal question">{{question.sequenceNumber}}.
         <span [innerHTML]="question.text"></span>
       </h3>
-      <div class="row text-left options">
+      <div class="flex-container">
         <div class="col-6" *ngFor="let option of question.options">
-          <div class="option">
-            <label class="font-weight-normal label" [attr.for]="option.id">
-              <input id="{{option.id}}" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" /> {{option.text}}
-            </label>
+          <div class = "option flex-item grid-container">
+            <input id="{{option.id}}" class="options-input grid-item-input" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" />
+            <label class="font-weight-normal grid-item-label"  [attr.for]="option.id">&nbsp;{{option.text}}</label>
           </div>
         </div>
       </div>
