@@ -1,0 +1,6337 @@
+{
+  "id": 5,
+  "name": "Spiritual Gifts Survey",
+  "description": "Helps to discover a Christian's spiritual gifts",
+  "questions": [
+    {
+      "id": 1,
+      "text": "I can coordinate people, tasks, and events to meet a need.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 112055,
+          "questionId": 1,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "a",
+          "isAnswer": true
+        },
+        {
+          "id": 12056,
+          "questionId": 1,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "a",
+          "isAnswer": true
+        },
+        {
+          "id": 12057,
+          "questionId": 1,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "a",
+          "isAnswer": true
+        },
+        {
+          "id": 12058,
+          "questionId": 1,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "a",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2,
+      "text": "I enjoy working creatively with wood, cloth, paints, metal, glass, or other materials.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 22059,
+          "questionId": 2,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 22060,
+          "questionId": 2,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 22061,
+          "questionId": 2,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 22062,
+          "questionId": 2,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3,
+      "text": "I enjoy developing and using my artistic skills (art, drama, music, photography, etc.)",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 32063,
+          "questionId": 3,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 32064,
+          "questionId": 3,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 32065,
+          "questionId": 3,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 32066,
+          "questionId": 3,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "gift": "",
+        "isActive": true
+      }
+    },
+    {
+      "id": 4,
+      "text": "When I see spiritual complacency, I am willing to challenge it.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 42067,
+          "questionId": 4,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 42068,
+          "questionId": 4,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 42069,
+          "questionId": 4,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 42070,
+          "questionId": 4,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 5,
+      "text": "I have confidence that God not only can, but he will.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 52071,
+          "questionId": 5,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 52072,
+          "questionId": 5,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 52073,
+          "questionId": 5,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 52074,
+          "questionId": 5,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 6,
+      "text": "I give liberally and joyfully to people in financial need or to projects requiring support.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 62075,
+          "questionId": 6,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 62076,
+          "questionId": 6,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 62077,
+          "questionId": 6,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 62078,
+          "questionId": 6,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "gift": "",
+        "isActive": true
+      }
+    },
+    {
+      "id": 7,
+      "text": "I enjoy working behind the scenes to support the work of others.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 72079,
+          "questionId": 7,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 72080,
+          "questionId": 7,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 72081,
+          "questionId": 7,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 72082,
+          "questionId": 7,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 8,
+      "text": "I view my home as a safe and caring place to minister to people.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 82083,
+          "questionId": 8,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 82084,
+          "questionId": 8,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 82085,
+          "questionId": 8,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 82086,
+          "questionId": 8,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "",
+        "isActive": true
+      }
+    },
+    {
+      "id": 9,
+      "text": "When it comes to my attention, I am honored to regularly pray for someone or for a concern.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 92087,
+          "questionId": 9,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 92088,
+          "questionId": 9,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 92089,
+          "questionId": 9,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 92090,
+          "questionId": 9,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 10,
+      "text": "I am motivated to set goals and influence others to achieve a vision in order to advance God’s work on earth.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 102091,
+          "questionId": 10,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 102092,
+          "questionId": 10,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 102093,
+          "questionId": 10,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 102094,
+          "questionId": 10,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 11,
+      "text": "I empathize with hurting people and desire to help in their healing process.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 112091,
+          "questionId": 11,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 112092,
+          "questionId": 11,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 112093,
+          "questionId": 11,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 112094,
+          "questionId": 11,
+          "text": "Con\u00ADsist\u00ADent\u00ADly&#8203;/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 12,
+      "text": "I am attracted to the idea of serving in another country or an ethnic community.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 122091,
+          "questionId": 12,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 122092,
+          "questionId": 12,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 122093,
+          "questionId": 12,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 122094,
+          "questionId": 12,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 13,
+      "text": "I have spoken a timely and important prophetic word to others that I felt came to me directly from God while in prayer.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 132091,
+          "questionId": 13,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 132092,
+          "questionId": 13,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 132093,
+          "questionId": 13,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 132094,
+          "questionId": 13,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 14,
+      "text": "I have the ability to communicate the Gospel with clarity and conviction.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 142091,
+          "questionId": 14,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 142092,
+          "questionId": 14,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 142093,
+          "questionId": 14,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 142094,
+          "questionId": 14,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 15,
+      "text": "I establish trust and confidence through long-term relationships.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 152091,
+          "questionId": 15,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 152092,
+          "questionId": 15,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 152093,
+          "questionId": 15,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 152094,
+          "questionId": 15,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 16,
+      "text": "I am able to communicate God’s Word effectively.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 162091,
+          "questionId": 16,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 162092,
+          "questionId": 16,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 162093,
+          "questionId": 16,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 162094,
+          "questionId": 16,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 17,
+      "text": "I can readily distinguish between spiritual truth and error, good and evil.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 172091,
+          "questionId": 17,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 172092,
+          "questionId": 17,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 172093,
+          "questionId": 17,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 172094,
+          "questionId": 17,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 18,
+      "text": "I research and am persistent in my pursuit of knowing the truth.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 182091,
+          "questionId": 18,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 182092,
+          "questionId": 18,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 182093,
+          "questionId": 18,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 182094,
+          "questionId": 18,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 19,
+      "text": "Others often seek me out for advice about personal and spiritual matters.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 192091,
+          "questionId": 19,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 192092,
+          "questionId": 19,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 192093,
+          "questionId": 19,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 192094,
+          "questionId": 19,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 20,
+      "text": "I am careful, thorough, and skilled at managing details.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 202091,
+          "questionId": 20,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 202092,
+          "questionId": 20,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 202093,
+          "questionId": 20,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 202094,
+          "questionId": 20,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 21,
+      "text": "I am skilled in working with different kinds of tools.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 212091,
+          "questionId": 21,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 212092,
+          "questionId": 21,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 212093,
+          "questionId": 21,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 212094,
+          "questionId": 21,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 22,
+      "text": "I help people better understand themselves, their relationships, and God through artistic expression.",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 222091,
+          "questionId": 22,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 222092,
+          "questionId": 22,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 222093,
+          "questionId": 22,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 222094,
+          "questionId": 22,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 23,
+      "text": "I enjoy reassuring and strengthening those who are discouraged.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 232091,
+          "questionId": 23,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 232092,
+          "questionId": 23,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 232093,
+          "questionId": 23,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 232094,
+          "questionId": 23,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 24,
+      "text": "I have confidence in God’s continuing provision and help, even in difficult times.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 242091,
+          "questionId": 24,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 242092,
+          "questionId": 24,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 242093,
+          "questionId": 24,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 242094,
+          "questionId": 24,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 25,
+      "text": "I give more than a tithe so that kingdom work can be accomplished.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 252091,
+          "questionId": 25,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 252092,
+          "questionId": 25,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 252093,
+          "questionId": 25,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 252094,
+          "questionId": 25,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 26,
+      "text": "I enjoy doing routine tasks that support the needs of ministry.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 262091,
+          "questionId": 26,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 262092,
+          "questionId": 26,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 262093,
+          "questionId": 26,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 262094,
+          "questionId": 26,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 27,
+      "text": "I enjoy meeting new people and helping them feel welcomed.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 272091,
+          "questionId": 27,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 272092,
+          "questionId": 27,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 272093,
+          "questionId": 27,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 272094,
+          "questionId": 27,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 28,
+      "text": "I enjoy praying for long periods of time and receive leadings as to what God wants me to pray for.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 282091,
+          "questionId": 28,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 282092,
+          "questionId": 28,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 282093,
+          "questionId": 28,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 282094,
+          "questionId": 28,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 29,
+      "text": "It is quite natural for me to lead, and it is more comfortable for me to lead than not to lead.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 292091,
+          "questionId": 29,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 292092,
+          "questionId": 29,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 292093,
+          "questionId": 29,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 292094,
+          "questionId": 29,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 30,
+      "text": "I can patiently support those going through painful experiences as they are seeking stability in their lives.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 302091,
+          "questionId": 30,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 302092,
+          "questionId": 30,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 302093,
+          "questionId": 30,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 302094,
+          "questionId": 30,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 31,
+      "text": "I am willing to take an active part in starting a new church.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 312091,
+          "questionId": 31,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 312092,
+          "questionId": 31,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 312093,
+          "questionId": 31,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 312094,
+          "questionId": 31,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 32,
+      "text": "By God’s revelation to me, I have been able to shed light on current realities in someone’s life that helps them see God’s desire for their future.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 322091,
+          "questionId": 32,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 322092,
+          "questionId": 32,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 322093,
+          "questionId": 32,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 322094,
+          "questionId": 32,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 33,
+      "text": "After I have shared the story of Jesus, people pray with me for salvation.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 332091,
+          "questionId": 33,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 332092,
+          "questionId": 33,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 332093,
+          "questionId": 33,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 332094,
+          "questionId": 33,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 34,
+      "text": "I can faithfully provide long-term emotional and spiritual support and concern for others.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 342091,
+          "questionId": 34,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 342092,
+          "questionId": 34,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 342093,
+          "questionId": 34,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 342094,
+          "questionId": 34,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 35,
+      "text": "I simply and practically explain and clarify the Word for those who are confused or just do not know.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 352091,
+          "questionId": 35,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 352092,
+          "questionId": 35,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 352093,
+          "questionId": 35,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 352094,
+          "questionId": 35,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 36,
+      "text": "I have a “sixth sense” and frequently am able to identify a person’s character based on first impressions.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 362091,
+          "questionId": 36,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 362092,
+          "questionId": 36,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 362093,
+          "questionId": 36,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 362094,
+          "questionId": 36,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 37,
+      "text": "I receive information from the Spirit that I did not acquire through natural means.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 372091,
+          "questionId": 37,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 372092,
+          "questionId": 37,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 372093,
+          "questionId": 37,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 372094,
+          "questionId": 37,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 38,
+      "text": "I can often find simple, practical solutions in the midst of conflict or confusion.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 382091,
+          "questionId": 38,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 382092,
+          "questionId": 38,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 382093,
+          "questionId": 38,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 382094,
+          "questionId": 38,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 39,
+      "text": "I can clarify goals and develop strategies or plans to accomplish them.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 392091,
+          "questionId": 39,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 392092,
+          "questionId": 39,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 392093,
+          "questionId": 39,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 392094,
+          "questionId": 39,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 40,
+      "text": "I can visualize how something should be constructed before I build it.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 402091,
+          "questionId": 40,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 402092,
+          "questionId": 40,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 402093,
+          "questionId": 40,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 402094,
+          "questionId": 40,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 41,
+      "text": "I like finding new and fresh ways of communicating God’s truth.",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 412091,
+          "questionId": 41,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 412092,
+          "questionId": 41,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 412093,
+          "questionId": 41,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 412094,
+          "questionId": 41,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 42,
+      "text": "I give hope to others by directing them to the promises of God.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 422091,
+          "questionId": 42,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 422092,
+          "questionId": 42,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 422093,
+          "questionId": 42,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 422094,
+          "questionId": 42,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 43,
+      "text": "I have a special ability to trust God for extraordinary needs.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 432091,
+          "questionId": 43,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 432092,
+          "questionId": 43,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 432093,
+          "questionId": 43,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 432094,
+          "questionId": 43,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 44,
+      "text": "I manage my money well in order to free more of it for giving.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 442091,
+          "questionId": 44,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 442092,
+          "questionId": 44,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 442093,
+          "questionId": 44,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 442094,
+          "questionId": 44,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 45,
+      "text": "I willingly take on a variety of odd jobs around the church to meet the needs of others.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 452091,
+          "questionId": 45,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 452092,
+          "questionId": 45,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 452093,
+          "questionId": 45,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 452094,
+          "questionId": 45,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 46,
+      "text": "I genuinely believe the Lord directs strangers to me who need a sense of belonging and connection to others.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 462091,
+          "questionId": 46,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 462092,
+          "questionId": 46,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 462093,
+          "questionId": 46,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 462094,
+          "questionId": 46,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 47,
+      "text": "I am conscious of ministering to others as I pray.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 472091,
+          "questionId": 47,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 472092,
+          "questionId": 47,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 472093,
+          "questionId": 47,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 472094,
+          "questionId": 47,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 48,
+      "text": "I am Us\u00ADu\u00ADal\u00ADly chosen as the group’s spokesperson when in discussion groups.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 482091,
+          "questionId": 48,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 482092,
+          "questionId": 48,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 482093,
+          "questionId": 48,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 482094,
+          "questionId": 48,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 49,
+      "text": "I am drawn toward people who are sometimes regarded as undeserving or beyond help.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 492091,
+          "questionId": 49,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 492092,
+          "questionId": 49,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 492093,
+          "questionId": 49,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 492094,
+          "questionId": 49,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 50,
+      "text": "I can relate to others in culturally sensitive ways.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 502091,
+          "questionId": 50,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 502092,
+          "questionId": 50,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 502093,
+          "questionId": 50,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 502094,
+          "questionId": 50,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 51,
+      "text": "I speak biblical truth in a timely and culturally sensitive way in order to strengthen, encourage, and comfort God’s people.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 512091,
+          "questionId": 51,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 512092,
+          "questionId": 51,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 512093,
+          "questionId": 51,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 512094,
+          "questionId": 51,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 52,
+      "text": "I’d rather be around non-Christians more than Christians so that I can build relationships with them.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 522091,
+          "questionId": 52,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 522092,
+          "questionId": 52,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 522093,
+          "questionId": 52,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 522094,
+          "questionId": 52,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 53,
+      "text": "I enjoy giving practical support, nurture, and spiritual guidance to a group of people.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 532091,
+          "questionId": 53,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 532092,
+          "questionId": 53,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 532093,
+          "questionId": 53,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 532094,
+          "questionId": 53,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 54,
+      "text": "When I teach, people respond to my teaching with action.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 542091,
+          "questionId": 54,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 542092,
+          "questionId": 54,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 542093,
+          "questionId": 54,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 542094,
+          "questionId": 54,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 55,
+      "text": "I can see through phoniness or deceit before it is evident to others.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 552091,
+          "questionId": 55,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 552092,
+          "questionId": 55,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 552093,
+          "questionId": 55,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 552094,
+          "questionId": 55,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 56,
+      "text": "I seek certainty and truth in order to avoid superficial understandings and speculation.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 562091,
+          "questionId": 56,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 562092,
+          "questionId": 56,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 562093,
+          "questionId": 56,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 562094,
+          "questionId": 56,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 57,
+      "text": "I am surprised by how many people are unable to solve problems and seem to lack common sense.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 572091,
+          "questionId": 57,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 572092,
+          "questionId": 57,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 572093,
+          "questionId": 57,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 572094,
+          "questionId": 57,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 58,
+      "text": "I can identify and effectively use the resources needed to accomplish tasks.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 582091,
+          "questionId": 58,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 582092,
+          "questionId": 58,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 582093,
+          "questionId": 58,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 582094,
+          "questionId": 58,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 59,
+      "text": "I am good at working with my hands and enjoy doing so.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 592091,
+          "questionId": 59,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 592092,
+          "questionId": 59,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 592093,
+          "questionId": 59,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 592094,
+          "questionId": 59,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 60,
+      "text": "I regularly need to get alone to reflect and to develop my imagination.",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 602091,
+          "questionId": 60,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 602092,
+          "questionId": 60,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 602093,
+          "questionId": 60,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 602094,
+          "questionId": 60,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 61,
+      "text": "I reassure those who need to take courageous action in their faith, family, or life.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 612091,
+          "questionId": 61,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 612092,
+          "questionId": 61,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 612093,
+          "questionId": 61,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 612094,
+          "questionId": 61,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 62,
+      "text": "I am unwavering in my belief that God will absolutely work in circumstances in which success cannot be guaranteed by human effort alone.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 622091,
+          "questionId": 62,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 622092,
+          "questionId": 62,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 622093,
+          "questionId": 62,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 622094,
+          "questionId": 62,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 63,
+      "text": "I choose to limit my lifestyle in order to give away a higher percentage of my income.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 632091,
+          "questionId": 63,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 632092,
+          "questionId": 63,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 632093,
+          "questionId": 63,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 632094,
+          "questionId": 63,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 64,
+      "text": "I see spiritual significance in doing practical tasks.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 642091,
+          "questionId": 64,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 642092,
+          "questionId": 64,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 642093,
+          "questionId": 64,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 642094,
+          "questionId": 64,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 65,
+      "text": "I rarely meet people I do not like and wouldn’t want to see included in the life of the church.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 652091,
+          "questionId": 65,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 652092,
+          "questionId": 65,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 652093,
+          "questionId": 65,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 652094,
+          "questionId": 65,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 66,
+      "text": "I pray with confidence because I know that God works in response to prayer.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 662091,
+          "questionId": 66,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 662092,
+          "questionId": 66,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 662093,
+          "questionId": 66,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 662094,
+          "questionId": 66,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 67,
+      "text": "I set goals and direct people to effectively accomplish them.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 672091,
+          "questionId": 67,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 672092,
+          "questionId": 67,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 672093,
+          "questionId": 67,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 672094,
+          "questionId": 67,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 68,
+      "text": "I have great compassion for hurting people.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 682091,
+          "questionId": 68,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 682092,
+          "questionId": 68,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 682093,
+          "questionId": 68,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 682094,
+          "questionId": 68,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 69,
+      "text": "I view the overall picture and do not get hindered with problems along the way.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 692091,
+          "questionId": 69,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 692092,
+          "questionId": 69,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 692093,
+          "questionId": 69,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 692094,
+          "questionId": 69,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 70,
+      "text": "I have spoken to others about future events or situations that God revealed to me, and they happened as I said they would.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 702091,
+          "questionId": 70,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 702092,
+          "questionId": 70,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 702093,
+          "questionId": 70,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 702094,
+          "questionId": 70,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 71,
+      "text": "I boldly speak about salvation through Jesus Christ and see a positive response in those who are listening.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 712091,
+          "questionId": 71,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 712092,
+          "questionId": 71,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 712093,
+          "questionId": 71,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 712094,
+          "questionId": 71,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 72,
+      "text": "I can gently restore wandering believers to faith and fellowship.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 722091,
+          "questionId": 72,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 722092,
+          "questionId": 72,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 722093,
+          "questionId": 72,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 722094,
+          "questionId": 72,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 73,
+      "text": "I get frustrated when I see people’s lack of biblical knowledge.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 732091,
+          "questionId": 73,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 732092,
+          "questionId": 73,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 732093,
+          "questionId": 73,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 732094,
+          "questionId": 73,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 74,
+      "text": "God shows me the difference between a demonic influence, a mental illness, and an error in truth.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 742091,
+          "questionId": 74,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 742092,
+          "questionId": 74,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 742093,
+          "questionId": 74,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 742094,
+          "questionId": 74,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 75,
+      "text": "When reading or studying Scripture, I see important biblical truths and themes that benefit others in the body of Christ.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 752091,
+          "questionId": 75,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 752092,
+          "questionId": 75,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 752093,
+          "questionId": 75,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 752094,
+          "questionId": 75,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 76,
+      "text": "I can anticipate the likely consequences of the actions of an individual or a group.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 762091,
+          "questionId": 76,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 762092,
+          "questionId": 76,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 762093,
+          "questionId": 76,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 762094,
+          "questionId": 76,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 77,
+      "text": "I like to help groups become more efficient.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 772091,
+          "questionId": 77,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 772092,
+          "questionId": 77,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 772093,
+          "questionId": 77,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 772094,
+          "questionId": 77,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 78,
+      "text": "I serve and work more behind the scenes to make things that are useful for ministry and that honor God.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 782091,
+          "questionId": 78,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 782092,
+          "questionId": 78,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 782093,
+          "questionId": 78,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 782094,
+          "questionId": 78,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 79,
+      "text": "The way I say and do things awakens the truth in others, so they say, 'I have Nev\u00ADer thought of it that way.'",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 792091,
+          "questionId": 79,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 792092,
+          "questionId": 79,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 792093,
+          "questionId": 79,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 792094,
+          "questionId": 79,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 80,
+      "text": "I find great joy in affirming the value and worth of others.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 802091,
+          "questionId": 80,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 802092,
+          "questionId": 80,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 802093,
+          "questionId": 80,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 802094,
+          "questionId": 80,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 81,
+      "text": "When I see God’s activity, I move toward it in spite of opposition or a lack of support.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 812091,
+          "questionId": 81,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 812092,
+          "questionId": 81,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 812093,
+          "questionId": 81,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 812094,
+          "questionId": 81,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 82,
+      "text": "For special projects and capital campaigns, I like to give in a way that encourages and inspires others to give generously.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 822091,
+          "questionId": 82,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 822092,
+          "questionId": 82,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 822093,
+          "questionId": 82,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 822094,
+          "questionId": 82,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 83,
+      "text": "I like to find things that need to be done and often do them without being asked.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 832091,
+          "questionId": 83,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 832092,
+          "questionId": 83,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 832093,
+          "questionId": 83,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 832094,
+          "questionId": 83,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 84,
+      "text": "For me, the greatest times of joy in the church are times of social interaction and fellowship.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 842091,
+          "questionId": 84,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 842092,
+          "questionId": 84,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 842093,
+          "questionId": 84,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 842094,
+          "questionId": 84,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 85,
+      "text": "When I hear about needy situations, I feel burdened to pray.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 852091,
+          "questionId": 85,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 852092,
+          "questionId": 85,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 852093,
+          "questionId": 85,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 852094,
+          "questionId": 85,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 86,
+      "text": "I influence others to perform to the best of their ability.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 862091,
+          "questionId": 86,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 862092,
+          "questionId": 86,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 862093,
+          "questionId": 86,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 862094,
+          "questionId": 86,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 87,
+      "text": "I look through a person’s handicaps or problems to see a life that matters to God and an opportunity to serve.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 872091,
+          "questionId": 87,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 872092,
+          "questionId": 87,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 872093,
+          "questionId": 87,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 872094,
+          "questionId": 87,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 88,
+      "text": "I am culturally sensitive and comfortable with different ethnic groups.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 882091,
+          "questionId": 88,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 882092,
+          "questionId": 88,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 882093,
+          "questionId": 88,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 882094,
+          "questionId": 88,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 89,
+      "text": "I feel a compulsion to speak the words God gives me to strengthen, encourage, and comfort others.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 892091,
+          "questionId": 89,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 892092,
+          "questionId": 89,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 892093,
+          "questionId": 89,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 892094,
+          "questionId": 89,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 90,
+      "text": "I openly tell people that I am a Christian and want them to ask me about my faith.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 902091,
+          "questionId": 90,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 902092,
+          "questionId": 90,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 902093,
+          "questionId": 90,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 902094,
+          "questionId": 90,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 91,
+      "text": "There are a number of people in my life that I am personally guiding with truth, encouragement, caring, and wisdom.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 912091,
+          "questionId": 91,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 912092,
+          "questionId": 91,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 912093,
+          "questionId": 91,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 912094,
+          "questionId": 91,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 92,
+      "text": "I communicate Scripture in ways that cause others to learn and become motivated toward greater growth.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 922091,
+          "questionId": 92,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 922092,
+          "questionId": 92,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 922093,
+          "questionId": 92,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 922094,
+          "questionId": 92,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 93,
+      "text": "I receive affirmation from others concerning the reliability of my insights about them and of perceptions I have of others.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 932091,
+          "questionId": 93,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 932092,
+          "questionId": 93,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 932093,
+          "questionId": 93,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 932094,
+          "questionId": 93,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 94,
+      "text": "I have suddenly known things about others, but did not know how I knew them.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 942091,
+          "questionId": 94,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 942092,
+          "questionId": 94,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 942093,
+          "questionId": 94,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 942094,
+          "questionId": 94,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 95,
+      "text": "I give practical advice to help others through complicated situations.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 952091,
+          "questionId": 95,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 952092,
+          "questionId": 95,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 952093,
+          "questionId": 95,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 952094,
+          "questionId": 95,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 96,
+      "text": "I can visualize a coming event, anticipate potential problems, and develop strategies to meet them.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 962091,
+          "questionId": 96,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 962092,
+          "questionId": 96,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 962093,
+          "questionId": 96,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 962094,
+          "questionId": 96,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 97,
+      "text": "I am a resourceful person, able to find the best materials and tools needed to build what is needed.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 972091,
+          "questionId": 97,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 972092,
+          "questionId": 97,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 972093,
+          "questionId": 97,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 972094,
+          "questionId": 97,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 98,
+      "text": "I use various forms of the arts to draw people closer to God and to his truth.",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 982091,
+          "questionId": 98,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 982092,
+          "questionId": 98,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 982093,
+          "questionId": 98,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 982094,
+          "questionId": 98,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 99,
+      "text": "I like motivating others to take steps for spiritual growth",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 992091,
+          "questionId": 99,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 992092,
+          "questionId": 99,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 992093,
+          "questionId": 99,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 992094,
+          "questionId": 99,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 100,
+      "text": "I am regularly challenging others to trust God.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 1002091,
+          "questionId": 100,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1002092,
+          "questionId": 100,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1002093,
+          "questionId": 100,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1002094,
+          "questionId": 100,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 101,
+      "text": "I manage my money and give to ministries that are well led and are making a difference for Christ in the lives of people.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 1012091,
+          "questionId": 101,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1012092,
+          "questionId": 101,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1012093,
+          "questionId": 101,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1012094,
+          "questionId": 101,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 102,
+      "text": "I show my love for others in actions more than words.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 1022091,
+          "questionId": 102,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1022092,
+          "questionId": 102,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1022093,
+          "questionId": 102,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1022094,
+          "questionId": 102,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 103,
+      "text": "I do whatever I can to make visitors and others feel they belong.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 1032091,
+          "questionId": 103,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1032092,
+          "questionId": 103,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1032093,
+          "questionId": 103,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1032094,
+          "questionId": 103,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 104,
+      "text": "God gives me a peace and confidence that my prayers are being answered, even when I cannot see the results.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 1042091,
+          "questionId": 104,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1042092,
+          "questionId": 104,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1042093,
+          "questionId": 104,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1042094,
+          "questionId": 104,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 105,
+      "text": "I am able to cast a vision for ministry that others want to follow and be a part of.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 1052091,
+          "questionId": 105,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1052092,
+          "questionId": 105,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1052093,
+          "questionId": 105,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1052094,
+          "questionId": 105,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 106,
+      "text": "I enjoy bringing hope, joy, and comfort to people working through a crisis or chronic situation in their lives.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 1062091,
+          "questionId": 106,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1062092,
+          "questionId": 106,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1062093,
+          "questionId": 106,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1062094,
+          "questionId": 106,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 107,
+      "text": "I relate to leaders who often follow me into new ministry ventures.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 1072091,
+          "questionId": 107,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1072092,
+          "questionId": 107,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1072093,
+          "questionId": 107,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1072094,
+          "questionId": 107,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 108,
+      "text": "God reveals to me things others cannot see so when I speak to them they can understand his activity in their lives.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 1082091,
+          "questionId": 108,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1082092,
+          "questionId": 108,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1082093,
+          "questionId": 108,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1082094,
+          "questionId": 108,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 109,
+      "text": "I love unchurched people no matter where they are on their spiritual journey.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 1092091,
+          "questionId": 109,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1092092,
+          "questionId": 109,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1092093,
+          "questionId": 109,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1092094,
+          "questionId": 109,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 110,
+      "text": "I take responsibility to nurture the whole person in his or her walk with God.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 1102091,
+          "questionId": 110,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1102092,
+          "questionId": 110,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1102093,
+          "questionId": 110,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1102094,
+          "questionId": 110,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 111,
+      "text": "I can present information and skills to others in ways that make it easier for them to grasp and apply them to their lives.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 1112091,
+          "questionId": 111,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1112092,
+          "questionId": 111,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1112093,
+          "questionId": 111,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1112094,
+          "questionId": 111,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 112,
+      "text": "I have seen into the spiritual realm where spirits have been revealed to me by God.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 1122091,
+          "questionId": 112,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1122092,
+          "questionId": 112,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1122093,
+          "questionId": 112,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1122094,
+          "questionId": 112,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 113,
+      "text": "The truths I learn and the understandings I gain create a burden for me because of the responsibility I feel to handle the information wisely.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 1132091,
+          "questionId": 113,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1132092,
+          "questionId": 113,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1132093,
+          "questionId": 113,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1132094,
+          "questionId": 113,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 114,
+      "text": "When faced with how to apply biblical truths practically in a difficult or complex situation, God reveals to me a solution.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 1142091,
+          "questionId": 114,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1142092,
+          "questionId": 114,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1142093,
+          "questionId": 114,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1142094,
+          "questionId": 114,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 115,
+      "text": "I want to bring order where there is organizational chaos.",
+      "questionTypeId": 1,
+      "gift": "a",
+      "options": [
+        {
+          "id": 1152091,
+          "questionId": 115,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1152092,
+          "questionId": 115,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1152093,
+          "questionId": 115,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1152094,
+          "questionId": 115,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 116,
+      "text": "I have good hand-eye coordination and good dexterity.",
+      "questionTypeId": 1,
+      "gift": "b",
+      "options": [
+        {
+          "id": 1162091,
+          "questionId": 116,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1162092,
+          "questionId": 116,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1162093,
+          "questionId": 116,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1162094,
+          "questionId": 116,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 117,
+      "text": "I have a sense of the whole and can creatively put things together in a harmonious flow that artistically communicates a biblical truth.",
+      "questionTypeId": 1,
+      "gift": "c",
+      "options": [
+        {
+          "id": 1172091,
+          "questionId": 117,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1172092,
+          "questionId": 117,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1172093,
+          "questionId": 117,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1172094,
+          "questionId": 117,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 118,
+      "text": "I carefully challenge or rebuke others in order to help them grow spiritually.",
+      "questionTypeId": 1,
+      "gift": "d",
+      "options": [
+        {
+          "id": 1182091,
+          "questionId": 118,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1182092,
+          "questionId": 118,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1182093,
+          "questionId": 118,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1182094,
+          "questionId": 118,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 119,
+      "text": "I find it natural to believe in God for things that others see as impossible.",
+      "questionTypeId": 1,
+      "gift": "e",
+      "options": [
+        {
+          "id": 1192091,
+          "questionId": 119,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1192092,
+          "questionId": 119,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1192093,
+          "questionId": 119,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1192094,
+          "questionId": 119,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 120,
+      "text": "I believe I have been given an abundance of resources so that I may give more to the Lord’s work.",
+      "questionTypeId": 1,
+      "gift": "f",
+      "options": [
+        {
+          "id": 1202091,
+          "questionId": 120,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1202092,
+          "questionId": 120,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1202093,
+          "questionId": 120,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1202094,
+          "questionId": 120,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 121,
+      "text": "When a task needs to be done, I find it difficult to say no.",
+      "questionTypeId": 1,
+      "gift": "g",
+      "options": [
+        {
+          "id": 1212091,
+          "questionId": 121,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1212092,
+          "questionId": 121,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1212093,
+          "questionId": 121,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1212094,
+          "questionId": 121,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 122,
+      "text": "I can make people feel at ease even in unfamiliar surroundings.",
+      "questionTypeId": 1,
+      "gift": "h",
+      "options": [
+        {
+          "id": 1222091,
+          "questionId": 122,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1222092,
+          "questionId": 122,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1222093,
+          "questionId": 122,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1222094,
+          "questionId": 122,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 123,
+      "text": "I see specific results in direct response to my prayers.",
+      "questionTypeId": 1,
+      "gift": "i",
+      "options": [
+        {
+          "id": 1232091,
+          "questionId": 123,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1232092,
+          "questionId": 123,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1232093,
+          "questionId": 123,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1232094,
+          "questionId": 123,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 124,
+      "text": "I figure out where we need to go and help others to get there.",
+      "questionTypeId": 1,
+      "gift": "j",
+      "options": [
+        {
+          "id": 1242091,
+          "questionId": 124,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1242092,
+          "questionId": 124,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1242093,
+          "questionId": 124,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1242094,
+          "questionId": 124,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 125,
+      "text": "I am moved with compassion and motivated to remove the sources of another’s sufferings.",
+      "questionTypeId": 1,
+      "gift": "k",
+      "options": [
+        {
+          "id": 1252091,
+          "questionId": 125,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1252092,
+          "questionId": 125,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1252093,
+          "questionId": 125,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1252094,
+          "questionId": 125,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 126,
+      "text": "God’s authority and power are manifested in the new churches and ministries I served to start.",
+      "questionTypeId": 1,
+      "gift": "l",
+      "options": [
+        {
+          "id": 1262091,
+          "questionId": 126,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1262092,
+          "questionId": 126,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1262093,
+          "questionId": 126,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1262094,
+          "questionId": 126,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 127,
+      "text": "I feel compelled to expose sin wherever I see it and to challenge people to repentance.",
+      "questionTypeId": 1,
+      "gift": "m",
+      "options": [
+        {
+          "id": 1272091,
+          "questionId": 127,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1272092,
+          "questionId": 127,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1272093,
+          "questionId": 127,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1272094,
+          "questionId": 127,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 128,
+      "text": "I’m constantly thinking of ways to bring up spiritual matters with friends who do not know God.",
+      "questionTypeId": 1,
+      "gift": "n",
+      "options": [
+        {
+          "id": 1282091,
+          "questionId": 128,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1282092,
+          "questionId": 128,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1282093,
+          "questionId": 128,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1282094,
+          "questionId": 128,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 129,
+      "text": "I feel responsible to help oversee and protect believers from the things that keep them from fellowship with God and one other.",
+      "questionTypeId": 1,
+      "gift": "o",
+      "options": [
+        {
+          "id": 1292091,
+          "questionId": 129,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1292092,
+          "questionId": 129,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1292093,
+          "questionId": 129,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1292094,
+          "questionId": 129,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 130,
+      "text": "I struggle with how to take what I have been studying and communicate only those things that will help God’s people learn what they need at the moment.",
+      "questionTypeId": 1,
+      "gift": "p",
+      "options": [
+        {
+          "id": 1302091,
+          "questionId": 130,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1302092,
+          "questionId": 130,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1302093,
+          "questionId": 130,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1302094,
+          "questionId": 130,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 131,
+      "text": "I can sense when demonic forces are at work in a person or situation.",
+      "questionTypeId": 1,
+      "gift": "q",
+      "options": [
+        {
+          "id": 1312091,
+          "questionId": 131,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1312092,
+          "questionId": 131,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1312093,
+          "questionId": 131,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1312094,
+          "questionId": 131,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 132,
+      "text": "I love learning and share with those who want to learn.",
+      "questionTypeId": 1,
+      "gift": "r",
+      "options": [
+        {
+          "id": 1322091,
+          "questionId": 132,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1322092,
+          "questionId": 132,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1322093,
+          "questionId": 132,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1322094,
+          "questionId": 132,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 133,
+      "text": "I like to read and study the book of Proverbs for its simple and powerful truths expressed in a clear and practical way.",
+      "questionTypeId": 1,
+      "gift": "s",
+      "options": [
+        {
+          "id": 1332091,
+          "questionId": 133,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1332092,
+          "questionId": 133,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1332093,
+          "questionId": 133,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1332094,
+          "questionId": 133,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 134,
+      "text": "I have repeatedly seen an instant healing as I laid hands on someone and prayed.",
+      "questionTypeId": 1,
+      "gift": "t",
+      "options": [
+        {
+          "id": 1342091,
+          "questionId": 134,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1342092,
+          "questionId": 134,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1342093,
+          "questionId": 134,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1342094,
+          "questionId": 134,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 135,
+      "text": "When I hear people speak in tongues, I feel the Spirit revealing his message to me, and I speak it aloud, interpreting it for the church.",
+      "questionTypeId": 1,
+      "gift": "u",
+      "options": [
+        {
+          "id": 1352091,
+          "questionId": 135,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1352092,
+          "questionId": 135,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1352093,
+          "questionId": 135,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1352094,
+          "questionId": 135,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 136,
+      "text": "I have experienced the power of God within me to cast out demons and heal the sick, and I see his supernatural intervention in nature.",
+      "questionTypeId": 1,
+      "gift": "v",
+      "options": [
+        {
+          "id": 1362091,
+          "questionId": 136,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1362092,
+          "questionId": 136,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1362093,
+          "questionId": 136,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1362094,
+          "questionId": 136,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 137,
+      "text": "I have spoken in a language I do not understand, and someone has spoken out to interpret what I had just said.",
+      "questionTypeId": 1,
+      "gift": "w",
+      "options": [
+        {
+          "id": 1372091,
+          "questionId": 137,
+          "text": "Nev\u00ADer/\u200BNot at all",
+          "value": 0,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1372092,
+          "questionId": 137,
+          "text": "Some of the time/\u200BOnce in a while",
+          "value": 1,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1372093,
+          "questionId": 137,
+          "text": "Most of the time/\u200BUs\u00ADu\u00ADal\u00ADly true",
+          "value": 2,
+          "gift": "",
+          "isAnswer": true
+        },
+        {
+          "id": 1372094,
+          "questionId": 137,
+          "text": "Con\u00ADsist\u00ADent\u00ADly/\u200BDef\u00ADin\u00ADite\u00ADly true",
+          "value": 3,
+          "gift": "",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    }
+  ],
+  "gifts": [
+    {
+      "id": 0,
+      "name": "Administration",
+      "description": "",
+      "score": 0,
+      "key": "a"
+    },
+    {
+      "id": 1,
+      "name": "Craftsmanship",
+      "description": "",
+      "score": 0,
+      "key": "b"
+    },
+    {
+      "id": 2,
+      "name": "Creative Communication",
+      "description": "",
+      "score": 0,
+      "key": "c"
+    },
+    {
+      "id": 3,
+      "name": "Encouragement",
+      "description": "",
+      "score": 0,
+      "key": "d"
+    },
+    {
+      "id": 4,
+      "name": "Faith",
+      "description": "",
+      "score": 0,
+      "key": "e"
+    },
+    {
+      "id": 5,
+      "name": "Giving",
+      "description": "",
+      "score": 0,
+      "key": "f"
+    },
+    {
+      "id": 6,
+      "name": "Helps",
+      "description": "",
+      "score": 0,
+      "key": "g"
+    },
+    {
+      "id": 7,
+      "name": "Hospitality",
+      "description": "",
+      "score": 0,
+      "key": "h"
+    },
+    {
+      "id": 8,
+      "name": "Intercession",
+      "description": "",
+      "score": 0,
+      "key": "i"
+    },
+    {
+      "id": 9,
+      "name": "Leadership",
+      "description": "",
+      "score": 0,
+      "key": "j"
+    },
+    {
+      "id": 10,
+      "name": "Mercy",
+      "description": "",
+      "score": 0,
+      "key": "k"
+    },
+    {
+      "id": 11,
+      "name": "Apostleship",
+      "description": "",
+      "score": 0,
+      "key": "l"
+    },
+    {
+      "id": 12,
+      "name": "Prophecy",
+      "description": "",
+      "score": 0,
+      "key": "m"
+    },
+    {
+      "id": 13,
+      "name": "Evangelism",
+      "description": "",
+      "score": 0,
+      "key": "n"
+    },
+    {
+      "id": 14,
+      "name": "Shepherding",
+      "description": "",
+      "score": 0,
+      "key": "o"
+    },
+    {
+      "id": 15,
+      "name": "Teaching",
+      "description": "",
+      "score": 0,
+      "key": "p"
+    },
+    {
+      "id": 16,
+      "name": "Discernment",
+      "description": "",
+      "score": 0,
+      "key": "q"
+    },
+    {
+      "id": 17,
+      "name": "Word of Knowledge",
+      "description": "",
+      "score": 0,
+      "key": "r"
+    },
+    {
+      "id": 18,
+      "name": "Word of Wisdom",
+      "description": "",
+      "score": 0,
+      "key": "s"
+    },
+    {
+      "id": 19,
+      "name": "Healing",
+      "description": "",
+      "score": 0,
+      "key": "t"
+    },
+    {
+      "id": 20,
+      "name": "Interpretation",
+      "description": "",
+      "score": 0,
+      "key": "u"
+    },
+    {
+      "id": 21,
+      "name": "Miracles",
+      "description": "",
+      "score": 0,
+      "key": "v"
+    },
+    {
+      "id": 22,
+      "name": "Tongues",
+      "description": "",
+      "score": 0,
+      "key": "w"
+    }
+  ]
+}
