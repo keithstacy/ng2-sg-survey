@@ -1,5 +1,5 @@
 {
-  "name": "ng6-quiz",
+  "name": "ng2-sg-survey",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -24,6 +24,7 @@
     "braces": "^3.0.2",
     "core-js": "^3.1.4",
     "jquery": "^3.3.1",
+    "ng": "^0.0.0",
     "popper": "^1.0.1",
     "rxjs": "^6.0.0",
     "zone.js": "^0.9.1"
