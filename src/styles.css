@@ -159,10 +159,11 @@
   .option {
     font-size: 15px;
     height: 50px;
-    width:250px;
+    width:270px;
   }
   .flex-container {
     flex-flow: row wrap;
+    width: 600px;
   }
   .options-input {
     height:30px;
@@ -170,9 +171,10 @@
   }
   .grid-container {
     grid-template-rows: 35px;
-    grid-template-columns: 32px 300px;
+    grid-template-columns: 32px 50px;
   }
   .grid-item-label {
-    width: 150px;
+    width: 230px;
+    height: 40px;
   }
 }
