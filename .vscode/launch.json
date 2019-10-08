@@ -6,7 +6,7 @@
   "configurations": [
 
     {
-      "name": "ng serve ff",
+      "name": "ng srv ff",
       "type": "firefox",
       "request": "launch",
       "preLaunchTask": "npm: start",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "ng serve cr",
+      "name": "ng srv cr",
       "type": "chrome",
       "request": "launch",
       "preLaunchTask": "npm: start",
