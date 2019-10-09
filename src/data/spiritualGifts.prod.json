@@ -1,11 +1,11 @@
 {
   "id": 5,
-  "name": "Spiritual Gifts Survey",
-  "description": "Helps to discover a Christian's spiritual gifts",
+  "name": "spir\u00ADit\u00ADu\u00ADal Gifts Survey",
+  "description": "Helps to discover a Chris\u00ADtian's spir\u00ADit\u00ADu\u00ADal gifts",
   "questions": [
     {
       "id": 1,
-      "text": "I can coordinate people, tasks, and events to meet a need.",
+      "text": "I can co\u00ADord\u00ADin\u00ADate peo\u00ADple, tasks, and ev\u00ADents to meet a need.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -50,7 +50,7 @@
     },
     {
       "id": 2,
-      "text": "I enjoy working creatively with wood, cloth, paints, metal, glass, or other materials.",
+      "text": "I enjoy work\u00ADing cre\u00ADat\u00ADive\u00ADly with wood, cloth, paints, met\u00ADal, glass, or oth\u00ADer mat\u00ADer\u00ADi\u00ADals.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
@@ -95,7 +95,7 @@
     },
     {
       "id": 3,
-      "text": "I enjoy developing and using my artistic skills (art, drama, music, photography, etc.)",
+      "text": "I en\u00ADjoy dev\u00ADel\u00ADop\u00ADing and us\u00ADing my art\u00ADist\u00ADic skills (art, dram\u00ADa, mus\u00ADic, pho\u00ADto\u00ADgrap\u00ADhy, etc.)",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -141,7 +141,7 @@
     },
     {
       "id": 4,
-      "text": "When I see spiritual complacency, I am willing to challenge it.",
+      "text": "When I see spir\u00ADit\u00ADu\u00ADal com\u00ADpla\u00ADcen\u00ADcy, I am wil\u00ADling to chal\u00ADlenge it.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -186,7 +186,7 @@
     },
     {
       "id": 5,
-      "text": "I have confidence that God not only can, but he will.",
+      "text": "I have con\u00ADfid\u00ADence that God not on\u00ADly can, but he will.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -231,7 +231,7 @@
     },
     {
       "id": 6,
-      "text": "I give liberally and joyfully to people in financial need or to projects requiring support.",
+      "text": "I give lib\u00ADer\u00ADal\u00ADly and joy\u00ADful\u00ADly to peo\u00ADple in fin\u00ADan\u00ADcial need or to pro\u00ADjects re\u00ADquir\u00ADing sup\u00ADport.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -277,7 +277,7 @@
     },
     {
       "id": 7,
-      "text": "I enjoy working behind the scenes to support the work of others.",
+      "text": "I en\u00ADjoy worki\u00ADng be\u00ADhind the scenes to sup\u00ADport the work of oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -322,7 +322,7 @@
     },
     {
       "id": 8,
-      "text": "I view my home as a safe and caring place to minister to people.",
+      "text": "I view my home as a safe and car\u00ADing place to min\u00ADi\u00ADster to peo\u00ADple.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -367,7 +367,7 @@
     },
     {
       "id": 9,
-      "text": "When it comes to my attention, I am honored to regularly pray for someone or for a concern.",
+      "text": "When it comes to my at\u00ADten\u00ADtion, I am hon\u00ADored to reg\u00ADu\u00ADlar\u00ADly pray for some\u00ADone or for a con\u00ADcern.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
@@ -412,7 +412,7 @@
     },
     {
       "id": 10,
-      "text": "I am motivated to set goals and influence others to achieve a vision in order to advance God’s work on earth.",
+      "text": "I am mot\u00ADi\u00ADvat\u00ADed to set goals and in\u00ADflu\u00ADence oth\u00ADers to a\u00ADchieve a vis\u00ADion in or\u00ADder to ad\u00ADvance God’s work on earth.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -457,7 +457,7 @@
     },
     {
       "id": 11,
-      "text": "I empathize with hurting people and desire to help in their healing process.",
+      "text": "I em\u00ADpath\u00ADize with hurt\u00ADing peo\u00ADple and de\u00ADsire to help in their heal\u00ADing pro\u00ADcess.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -502,7 +502,7 @@
     },
     {
       "id": 12,
-      "text": "I am attracted to the idea of serving in another country or an ethnic community.",
+      "text": "I am at\u00ADtract\u00ADed to the i\u00ADde\u00ADa of serv\u00ADing in an\u00ADoth\u00ADer coun\u00ADtry or an eth\u00ADnic com\u00ADmun\u00ADity.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -547,7 +547,7 @@
     },
     {
       "id": 13,
-      "text": "I have spoken a timely and important prophetic word to others that I felt came to me directly from God while in prayer.",
+      "text": "I have spo\u00ADken a time\u00ADly and im\u00ADport\u00ADant pro\u00ADphet\u00ADic word to oth\u00ADers that I felt came to me dir\u00ADect\u00ADly from God while in prayer.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -592,7 +592,7 @@
     },
     {
       "id": 14,
-      "text": "I have the ability to communicate the Gospel with clarity and conviction.",
+      "text": "I have the ab\u00ADil\u00ADi\u00ADty to com\u00ADmun\u00ADi\u00ADcate the Gos\u00ADpel with clar\u00ADi\u00ADty and con\u00ADvict\u00ADion.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -637,7 +637,7 @@
     },
     {
       "id": 15,
-      "text": "I establish trust and confidence through long-term relationships.",
+      "text": "I est\u00ADab\u00ADlish trust and con\u00ADfid\u00ADence through long-term re\u00ADla\u00ADtion\u00ADships.",
       "questionTypeId": 1,
       "gift": "o",
       "options": [
@@ -682,7 +682,7 @@
     },
     {
       "id": 16,
-      "text": "I am able to communicate God’s Word effectively.",
+      "text": "I am able to com\u00ADmun\u00ADi\u00ADcate God’s Word ef\u00ADfect\u00ADive\u00ADly.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -727,7 +727,7 @@
     },
     {
       "id": 17,
-      "text": "I can readily distinguish between spiritual truth and error, good and evil.",
+      "text": "I can read\u00ADi\u00ADly dis\u00ADting\u00ADuish be\u00ADtween spir\u00ADit\u00ADual truth and er\u00ADror, good and e\u00ADvil.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -772,7 +772,7 @@
     },
     {
       "id": 18,
-      "text": "I research and am persistent in my pursuit of knowing the truth.",
+      "text": "I re\u00ADsearch and am per\u00ADsis\u00ADtent in my pur\u00ADsuit of know\u00ADing the truth.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -817,7 +817,7 @@
     },
     {
       "id": 19,
-      "text": "Others often seek me out for advice about personal and spiritual matters.",
+      "text": "Oth\u00ADers of\u00ADten seek me out for ad\u00ADvice ab\u00ADout per\u00ADson\u00ADal and spir\u00ADit\u00ADual mat\u00ADters.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -862,7 +862,7 @@
     },
     {
       "id": 20,
-      "text": "I am careful, thorough, and skilled at managing details.",
+      "text": "I am care\u00ADful, thor\u00ADough, and skilled at man\u00ADa\u00ADging de\u00ADtails.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -907,7 +907,7 @@
     },
     {
       "id": 21,
-      "text": "I am skilled in working with different kinds of tools.",
+      "text": "I am skilled in work\u00ADing with dif\u00ADfer\u00ADent kinds of tools.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
@@ -952,7 +952,7 @@
     },
     {
       "id": 22,
-      "text": "I help people better understand themselves, their relationships, and God through artistic expression.",
+      "text": "I help peo\u00ADple bet\u00ADter un\u00ADder\u00ADstand them\u00ADselves, their re\u00ADla\u00ADtion\u00ADships, and God through art\u00ADis\u00ADtic ex\u00ADpres\u00ADsion.",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -997,7 +997,7 @@
     },
     {
       "id": 23,
-      "text": "I enjoy reassuring and strengthening those who are discouraged.",
+      "text": "I en\u00ADjoy re\u00ADas\u00ADsur\u00ADing and strength\u00ADen\u00ADing those who are dis\u00ADcour\u00ADaged.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -1042,7 +1042,7 @@
     },
     {
       "id": 24,
-      "text": "I have confidence in God’s continuing provision and help, even in difficult times.",
+      "text": "I have con\u00ADfi\u00ADdence in God’s con\u00ADtin\u00ADu\u00ADing pro\u00ADvi\u00ADsion and help, even in dif\u00ADfi\u00ADcult times.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -1087,7 +1087,7 @@
     },
     {
       "id": 25,
-      "text": "I give more than a tithe so that kingdom work can be accomplished.",
+      "text": "I give more than a tithe so that king\u00ADdom work can be ac\u00ADcom\u00ADplished.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -1132,7 +1132,7 @@
     },
     {
       "id": 26,
-      "text": "I enjoy doing routine tasks that support the needs of ministry.",
+      "text": "I en\u00ADjoy do\u00ADing rou\u00ADtine tasks that sup\u00ADport the needs of min\u00ADi\u00ADstry.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -1177,7 +1177,7 @@
     },
     {
       "id": 27,
-      "text": "I enjoy meeting new people and helping them feel welcomed.",
+      "text": "I en\u00ADjoy meet\u00ADing new peo\u00ADple and help\u00ADing them feel wel\u00ADcomed.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -1222,7 +1222,7 @@
     },
     {
       "id": 28,
-      "text": "I enjoy praying for long periods of time and receive leadings as to what God wants me to pray for.",
+      "text": "I en\u00ADjoy pray\u00ADing for long per\u00ADi\u00ADods of time and re\u00ADceive lead\u00ADings as to what God wants me to pray for.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
@@ -1267,7 +1267,7 @@
     },
     {
       "id": 29,
-      "text": "It is quite natural for me to lead, and it is more comfortable for me to lead than not to lead.",
+      "text": "It is quite nat\u00ADur\u00ADal for me to lead, and it is more com\u00ADfort\u00ADable for me to lead than not to lead.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -1312,7 +1312,7 @@
     },
     {
       "id": 30,
-      "text": "I can patiently support those going through painful experiences as they are seeking stability in their lives.",
+      "text": "I can pa\u00ADtient\u00ADly sup\u00ADport those go\u00ADing through pain\u00ADful ex\u00ADper\u00ADi\u00ADenc\u00ADes as they are seek\u00ADing sta\u00ADbil\u00ADi\u00ADty in their lives.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -1357,7 +1357,7 @@
     },
     {
       "id": 31,
-      "text": "I am willing to take an active part in starting a new church.",
+      "text": "I am wil\u00ADling to take an act\u00ADive part in start\u00ADing a new church.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -1402,7 +1402,7 @@
     },
     {
       "id": 32,
-      "text": "By God’s revelation to me, I have been able to shed light on current realities in someone’s life that helps them see God’s desire for their future.",
+      "text": "By God’s re\u00ADvel\u00ADa\u00ADtion to me, I have been a\u00ADble to shed light on cur\u00ADrent re\u00ADal\u00ADi\u00ADties in some\u00ADone’s life that helps them see God’s de\u00ADsire for their fu\u00ADture.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -1447,7 +1447,7 @@
     },
     {
       "id": 33,
-      "text": "After I have shared the story of Jesus, people pray with me for salvation.",
+      "text": "Af\u00ADter I have shared the sto\u00ADry of Je\u00ADsus, peo\u00ADple pray with me for sal\u00ADva\u00ADtion.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -1492,7 +1492,7 @@
     },
     {
       "id": 34,
-      "text": "I can faithfully provide long-term emotional and spiritual support and concern for others.",
+      "text": "I can faith\u00ADful\u00ADly pro\u00ADvide long-term e\u00ADmo\u00ADtion\u00ADal and spir\u00ADit\u00ADual sup\u00ADport and con\u00ADcern for oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "o",
       "options": [
@@ -1537,7 +1537,7 @@
     },
     {
       "id": 35,
-      "text": "I simply and practically explain and clarify the Word for those who are confused or just do not know.",
+      "text": "I simp\u00ADly and prac\u00ADtic\u00ADal\u00ADly ex\u00ADplain and clar\u00ADi\u00ADfy the Word for those who are con\u00ADfused or just do not know.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -1582,7 +1582,7 @@
     },
     {
       "id": 36,
-      "text": "I have a “sixth sense” and frequently am able to identify a person’s character based on first impressions.",
+      "text": "I have a “sixth sense” and fre\u00ADquent\u00ADly am a\u00ADble to i\u00ADdent\u00ADi\u00ADfy a per\u00ADson’s char\u00ADac\u00ADter based on first im\u00ADpres\u00ADsions.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -1627,7 +1627,7 @@
     },
     {
       "id": 37,
-      "text": "I receive information from the Spirit that I did not acquire through natural means.",
+      "text": "I re\u00ADceive in\u00ADform\u00ADa\u00ADtion from the Spir\u00ADit that I did not ac\u00ADquire through na\u00ADtur\u00ADal means.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -1672,7 +1672,7 @@
     },
     {
       "id": 38,
-      "text": "I can often find simple, practical solutions in the midst of conflict or confusion.",
+      "text": "I can of\u00ADten find simp\u00ADle, prac\u00ADtic\u00ADal sol\u00ADu\u00ADtions in the midst of con\u00ADflict or con\u00ADfu\u00ADsion.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -1717,7 +1717,7 @@
     },
     {
       "id": 39,
-      "text": "I can clarify goals and develop strategies or plans to accomplish them.",
+      "text": "I can clar\u00ADi\u00ADfy goals and de\u00ADvel\u00ADop strat\u00ADe\u00ADgies or plans to ac\u00ADcomp\u00ADlish them.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 40,
-      "text": "I can visualize how something should be constructed before I build it.",
+      "text": "I can vis\u00ADu\u00ADa\u00ADlize how some\u00ADthing should be con\u00ADstruc\u00ADted be\u00ADfore I build it.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
@@ -1807,7 +1807,7 @@
     },
     {
       "id": 41,
-      "text": "I like finding new and fresh ways of communicating God’s truth.",
+      "text": "I like find\u00ADing new and fresh ways of com\u00ADmun\u00ADi\u00ADcat\u00ADing God’s truth.",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 42,
-      "text": "I give hope to others by directing them to the promises of God.",
+      "text": "I give hope to oth\u00ADers by dir\u00ADect\u00ADing them to the pro\u00ADmis\u00ADes of God.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -1897,7 +1897,7 @@
     },
     {
       "id": 43,
-      "text": "I have a special ability to trust God for extraordinary needs.",
+      "text": "I have a spe\u00ADcial ab\u00ADil\u00ADi\u00ADty to trust God for ex\u00ADtra\u00ADord\u00ADin\u00ADa\u00ADry needs.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -1942,7 +1942,7 @@
     },
     {
       "id": 44,
-      "text": "I manage my money well in order to free more of it for giving.",
+      "text": "I man\u00ADage my mon\u00ADey well in or\u00ADder to free more of it for giv\u00ADing.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -1987,7 +1987,7 @@
     },
     {
       "id": 45,
-      "text": "I willingly take on a variety of odd jobs around the church to meet the needs of others.",
+      "text": "I wil\u00ADling\u00ADly take on a var\u00ADi\u00ADe\u00ADty of odd jobs ar\u00ADound the church to meet the needs of oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -2032,7 +2032,7 @@
     },
     {
       "id": 46,
-      "text": "I genuinely believe the Lord directs strangers to me who need a sense of belonging and connection to others.",
+      "text": "I gen\u00ADu\u00ADine\u00ADly believe the Lord dir\u00ADects stran\u00ADgers to me who need a sense of be\u00ADlong\u00ADing and con\u00ADnec\u00ADtion to oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -2077,7 +2077,7 @@
     },
     {
       "id": 47,
-      "text": "I am conscious of ministering to others as I pray.",
+      "text": "I am con\u00ADscious of min\u00ADist\u00ADer\u00ADing to oth\u00ADers as I pray.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
@@ -2122,7 +2122,7 @@
     },
     {
       "id": 48,
-      "text": "I am Us\u00ADu\u00ADal\u00ADly chosen as the group’s spokesperson when in discussion groups.",
+      "text": "I am us\u00ADu\u00ADal\u00ADly cho\u00ADsen as the group’s spokes\u00ADper\u00ADson when in dis\u00ADcus\u00ADsion groups.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -2167,7 +2167,7 @@
     },
     {
       "id": 49,
-      "text": "I am drawn toward people who are sometimes regarded as undeserving or beyond help.",
+      "text": "I am drawn toward peo\u00ADple who are some\u00ADtimes re\u00ADgard\u00ADed as un\u00ADdes\u00ADerv\u00ADing or be\u00ADyond help.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -2212,7 +2212,7 @@
     },
     {
       "id": 50,
-      "text": "I can relate to others in culturally sensitive ways.",
+      "text": "I can re\u00ADlate to oth\u00ADers in cul\u00ADtur\u00ADal\u00ADly sen\u00ADsi\u00ADtive ways.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -2257,7 +2257,7 @@
     },
     {
       "id": 51,
-      "text": "I speak biblical truth in a timely and culturally sensitive way in order to strengthen, encourage, and comfort God’s people.",
+      "text": "I speak bib\u00ADlic\u00ADal truth in a timely and cul\u00ADtur\u00ADal\u00ADly sen\u00ADsi\u00ADtive way in or\u00ADder to streng\u00ADthen, en\u00ADcour\u00ADage, and com\u00ADfort God’s peo\u00ADple.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -2302,7 +2302,7 @@
     },
     {
       "id": 52,
-      "text": "I’d rather be around non-Christians more than Christians so that I can build relationships with them.",
+      "text": "I’d rath\u00ADer be ar\u00ADound non-Chris\u00ADtians more than Chris\u00ADtians so that I can build re\u00ADla\u00ADtion\u00ADships with them.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -2347,7 +2347,7 @@
     },
     {
       "id": 53,
-      "text": "I enjoy giving practical support, nurture, and spiritual guidance to a group of people.",
+      "text": "I enjoy giv\u00ADing prac\u00ADti\u00ADcal sup\u00ADport, nur\u00ADture, and spir\u00ADit\u00ADu\u00ADal gui\u00ADdance to a group of peo\u00ADple.",
       "questionTypeId": 1,
       "gift": "o",
       "options": [
@@ -2392,7 +2392,7 @@
     },
     {
       "id": 54,
-      "text": "When I teach, people respond to my teaching with action.",
+      "text": "When I teach, peo\u00ADple re\u00ADspond to my teach\u00ADing with ac\u00ADtion.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -2437,7 +2437,7 @@
     },
     {
       "id": 55,
-      "text": "I can see through phoniness or deceit before it is evident to others.",
+      "text": "I can see through phon\u00ADi\u00ADness or de\u00ADceit be\u00ADfore it is ev\u00ADi\u00ADdent to oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -2482,7 +2482,7 @@
     },
     {
       "id": 56,
-      "text": "I seek certainty and truth in order to avoid superficial understandings and speculation.",
+      "text": "I seek cer\u00ADtain\u00ADty and truth in or\u00ADder to a\u00ADvoid su\u00ADper\u00ADfi\u00ADcial un\u00ADder\u00ADstand\u00ADings and speculation.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -2527,7 +2527,7 @@
     },
     {
       "id": 57,
-      "text": "I am surprised by how many people are unable to solve problems and seem to lack common sense.",
+      "text": "I am surprised by how many peo\u00ADple are unable to solve problems and seem to lack common sense.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -2572,7 +2572,7 @@
     },
     {
       "id": 58,
-      "text": "I can identify and effectively use the resources needed to accomplish tasks.",
+      "text": "I can identify and effectively use the resources needed to ac\u00ADcomp\u00ADlish tasks.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -2662,7 +2662,7 @@
     },
     {
       "id": 60,
-      "text": "I regularly need to get alone to reflect and to develop my imagination.",
+      "text": "I regularly need to get alone to reflect and to de\u00ADvel\u00ADop my imagination.",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -2707,7 +2707,7 @@
     },
     {
       "id": 61,
-      "text": "I reassure those who need to take courageous action in their faith, family, or life.",
+      "text": "I reassure those who need to take courageous ac\u00ADtion in their faith, family, or life.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -2797,7 +2797,7 @@
     },
     {
       "id": 63,
-      "text": "I choose to limit my lifestyle in order to give away a higher percentage of my income.",
+      "text": "I choose to limit my lifestyle in or\u00ADder to give away a higher percentage of my income.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -2842,7 +2842,7 @@
     },
     {
       "id": 64,
-      "text": "I see spiritual significance in doing practical tasks.",
+      "text": "I see spir\u00ADit\u00ADu\u00ADal significance in doing prac\u00ADti\u00ADcal tasks.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -2887,7 +2887,7 @@
     },
     {
       "id": 65,
-      "text": "I rarely meet people I do not like and wouldn’t want to see included in the life of the church.",
+      "text": "I rarely meet peo\u00ADple I do not like and wouldn’t want to see included in the life of the church.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -2932,7 +2932,7 @@
     },
     {
       "id": 66,
-      "text": "I pray with confidence because I know that God works in response to prayer.",
+      "text": "I pray with confidence be\u00ADcause I know that God works in response to prayer.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
@@ -2977,7 +2977,7 @@
     },
     {
       "id": 67,
-      "text": "I set goals and direct people to effectively accomplish them.",
+      "text": "I set goals and direct peo\u00ADple to effectively ac\u00ADcomp\u00ADlish them.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -3022,7 +3022,7 @@
     },
     {
       "id": 68,
-      "text": "I have great compassion for hurting people.",
+      "text": "I have great compassion for hurting peo\u00ADple.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -3112,7 +3112,7 @@
     },
     {
       "id": 70,
-      "text": "I have spoken to others about future events or situations that God revealed to me, and they happened as I said they would.",
+      "text": "I have spo\u00ADken to oth\u00ADers about future events or sit\u00ADu\u00ADa\u00ADtions that God revealed to me, and they happened as I said they would.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -3247,7 +3247,7 @@
     },
     {
       "id": 73,
-      "text": "I get frustrated when I see people’s lack of biblical knowledge.",
+      "text": "I get frustrated when I see peo\u00ADple’s lack of bib\u00ADlic\u00ADal knowledge.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -3292,7 +3292,7 @@
     },
     {
       "id": 74,
-      "text": "God shows me the difference between a demonic influence, a mental illness, and an error in truth.",
+      "text": "God shows me the difference between a de\u00ADmon\u00ADic influence, a mental illness, and an error in truth.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -3337,7 +3337,7 @@
     },
     {
       "id": 75,
-      "text": "When reading or studying Scripture, I see important biblical truths and themes that benefit others in the body of Christ.",
+      "text": "When reading or stu\u00ADdying Scripture, I see important bib\u00ADlic\u00ADal truths and themes that benefit oth\u00ADers in the body of Christ.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -3382,7 +3382,7 @@
     },
     {
       "id": 76,
-      "text": "I can anticipate the likely consequences of the actions of an individual or a group.",
+      "text": "I can anticipate the likely consequences of the ac\u00ADtions of an individual or a group.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -3517,7 +3517,7 @@
     },
     {
       "id": 79,
-      "text": "The way I say and do things awakens the truth in others, so they say, 'I have Nev\u00ADer thought of it that way.'",
+      "text": "The way I say and do things awakens the truth in oth\u00ADers, so they say, 'I have Nev\u00ADer thought of it that way.'",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -3562,7 +3562,7 @@
     },
     {
       "id": 80,
-      "text": "I find great joy in affirming the value and worth of others.",
+      "text": "I find great joy in affirming the value and worth of oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -3607,7 +3607,7 @@
     },
     {
       "id": 81,
-      "text": "When I see God’s activity, I move toward it in spite of opposition or a lack of support.",
+      "text": "When I see God’s activity, I move toward it in spite of opposition or a lack of sup\u00ADport.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -3652,7 +3652,7 @@
     },
     {
       "id": 82,
-      "text": "For special projects and capital campaigns, I like to give in a way that encourages and inspires others to give generously.",
+      "text": "For spe\u00ADcial projects and capital campaigns, I like to give in a way that en\u00ADcour\u00ADages and inspires oth\u00ADers to give generously.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -3742,7 +3742,7 @@
     },
     {
       "id": 84,
-      "text": "For me, the greatest times of joy in the church are times of social interaction and fellowship.",
+      "text": "For me, the greatest times of joy in the church are times of social interac\u00ADtion and fellowship.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -3787,7 +3787,7 @@
     },
     {
       "id": 85,
-      "text": "When I hear about needy situations, I feel burdened to pray.",
+      "text": "When I hear about needy sit\u00ADu\u00ADa\u00ADtions, I feel bur\u00ADdened to pray.",
       "questionTypeId": 1,
       "gift": "i",
       "options": [
@@ -3832,7 +3832,7 @@
     },
     {
       "id": 86,
-      "text": "I influence others to perform to the best of their ability.",
+      "text": "I influence oth\u00ADers to perform to the best of their ab\u00ADil\u00ADi\u00ADty.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -3877,7 +3877,7 @@
     },
     {
       "id": 87,
-      "text": "I look through a person’s handicaps or problems to see a life that matters to God and an opportunity to serve.",
+      "text": "I look through a per\u00ADson’s handicaps or problems to see a life that matters to God and an opportunity to serve.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -3922,7 +3922,7 @@
     },
     {
       "id": 88,
-      "text": "I am culturally sensitive and comfortable with different ethnic groups.",
+      "text": "I am cul\u00ADtur\u00ADal\u00ADly sen\u00ADsi\u00ADtive and com\u00ADfortable with different ethnic groups.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -3967,7 +3967,7 @@
     },
     {
       "id": 89,
-      "text": "I feel a compulsion to speak the words God gives me to strengthen, encourage, and comfort others.",
+      "text": "I feel a compulsion to speak the words God gives me to streng\u00ADthen, en\u00ADcour\u00ADage, and com\u00ADfort oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -4012,7 +4012,7 @@
     },
     {
       "id": 90,
-      "text": "I openly tell people that I am a Christian and want them to ask me about my faith.",
+      "text": "I openly tell peo\u00ADple that I am a Chris\u00ADtian and want them to ask me about my faith.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -4057,7 +4057,7 @@
     },
     {
       "id": 91,
-      "text": "There are a number of people in my life that I am personally guiding with truth, encouragement, caring, and wisdom.",
+      "text": "There are a number of peo\u00ADple in my life that I am per\u00ADsonally guiding with truth, en\u00ADcour\u00ADagement, caring, and wisdom.",
       "questionTypeId": 1,
       "gift": "o",
       "options": [
@@ -4102,7 +4102,7 @@
     },
     {
       "id": 92,
-      "text": "I communicate Scripture in ways that cause others to learn and become motivated toward greater growth.",
+      "text": "I com\u00ADmun\u00ADi\u00ADcate Scripture in ways that cause oth\u00ADers to learn and become motivated toward greater growth.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -4147,7 +4147,7 @@
     },
     {
       "id": 93,
-      "text": "I receive affirmation from others concerning the reliability of my insights about them and of perceptions I have of others.",
+      "text": "I receive affirmation from oth\u00ADers concerning the reliab\u00ADil\u00ADi\u00ADty of my insights about them and of perceptions I have of oth\u00ADers.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -4192,7 +4192,7 @@
     },
     {
       "id": 94,
-      "text": "I have suddenly known things about others, but did not know how I knew them.",
+      "text": "I have suddenly known things about oth\u00ADers, but did not know how I knew them.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -4237,7 +4237,7 @@
     },
     {
       "id": 95,
-      "text": "I give practical advice to help others through complicated situations.",
+      "text": "I give prac\u00ADti\u00ADcal advice to help oth\u00ADers through complicated sit\u00ADu\u00ADa\u00ADtions.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -4282,7 +4282,7 @@
     },
     {
       "id": 96,
-      "text": "I can visualize a coming event, anticipate potential problems, and develop strategies to meet them.",
+      "text": "I can vis\u00ADu\u00ADa\u00ADlize a coming event, anticipate potential problems, and de\u00ADvel\u00ADop strat\u00ADe\u00ADgies to meet them.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -4327,7 +4327,7 @@
     },
     {
       "id": 97,
-      "text": "I am a resourceful person, able to find the best materials and tools needed to build what is needed.",
+      "text": "I am a resourceful per\u00ADson, able to find the best materials and tools needed to build what is needed.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
@@ -4372,7 +4372,7 @@
     },
     {
       "id": 98,
-      "text": "I use various forms of the arts to draw people closer to God and to his truth.",
+      "text": "I use various forms of the arts to draw peo\u00ADple closer to God and to his truth.",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -4417,7 +4417,7 @@
     },
     {
       "id": 99,
-      "text": "I like motivating others to take steps for spiritual growth",
+      "text": "I like motivating oth\u00ADers to take steps for spir\u00ADit\u00ADu\u00ADal growth",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -4462,7 +4462,7 @@
     },
     {
       "id": 100,
-      "text": "I am regularly challenging others to trust God.",
+      "text": "I am regularly challenging oth\u00ADers to trust God.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -4507,7 +4507,7 @@
     },
     {
       "id": 101,
-      "text": "I manage my money and give to ministries that are well led and are making a difference for Christ in the lives of people.",
+      "text": "I man\u00ADage my mon\u00ADey and give to ministries that are well led and are making a difference for Christ in the lives of peo\u00ADple.",
       "questionTypeId": 1,
       "gift": "f",
       "options": [
@@ -4552,7 +4552,7 @@
     },
     {
       "id": 102,
-      "text": "I show my love for others in actions more than words.",
+      "text": "I show my love for oth\u00ADers in ac\u00ADtions more than words.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -4597,7 +4597,7 @@
     },
     {
       "id": 103,
-      "text": "I do whatever I can to make visitors and others feel they belong.",
+      "text": "I do whatever I can to make visitors and oth\u00ADers feel they belong.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -4687,7 +4687,7 @@
     },
     {
       "id": 105,
-      "text": "I am able to cast a vision for ministry that others want to follow and be a part of.",
+      "text": "I am able to cast a vision for ministry that oth\u00ADers want to follow and be a part of.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -4732,7 +4732,7 @@
     },
     {
       "id": 106,
-      "text": "I enjoy bringing hope, joy, and comfort to people working through a crisis or chronic situation in their lives.",
+      "text": "I enjoy bringing hope, joy, and com\u00ADfort to peo\u00ADple working through a crisis or chronic sit\u00ADu\u00ADa\u00ADtion in their lives.",
       "questionTypeId": 1,
       "gift": "k",
       "options": [
@@ -4777,7 +4777,7 @@
     },
     {
       "id": 107,
-      "text": "I relate to leaders who often follow me into new ministry ventures.",
+      "text": "I re\u00ADlate to leaders who often follow me into new ministry ventures.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -4822,7 +4822,7 @@
     },
     {
       "id": 108,
-      "text": "God reveals to me things others cannot see so when I speak to them they can understand his activity in their lives.",
+      "text": "God re\u00ADveals to me things oth\u00ADers cannot see so when I speak to them they can un\u00ADder\u00ADstand his activity in their lives.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -4867,7 +4867,7 @@
     },
     {
       "id": 109,
-      "text": "I love unchurched people no matter where they are on their spiritual journey.",
+      "text": "I love unchurched peo\u00ADple no matter where they are on their spir\u00ADit\u00ADu\u00ADal journey.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -4912,7 +4912,7 @@
     },
     {
       "id": 110,
-      "text": "I take responsibility to nurture the whole person in his or her walk with God.",
+      "text": "I take re\u00ADspon\u00ADsi\u00ADbil\u00ADi\u00ADty to nur\u00ADture the whole per\u00ADson in his or her walk with God.",
       "questionTypeId": 1,
       "gift": "o",
       "options": [
@@ -4957,7 +4957,7 @@
     },
     {
       "id": 111,
-      "text": "I can present information and skills to others in ways that make it easier for them to grasp and apply them to their lives.",
+      "text": "I can present in\u00ADform\u00ADa\u00ADtion and skills to oth\u00ADers in ways that make it easier for them to grasp and ap\u00ADply them to their lives.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -5002,7 +5002,7 @@
     },
     {
       "id": 112,
-      "text": "I have seen into the spiritual realm where spirits have been revealed to me by God.",
+      "text": "I have seen into the spir\u00ADit\u00ADu\u00ADal realm where Spir\u00ADits have been revealed to me by God.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -5047,7 +5047,7 @@
     },
     {
       "id": 113,
-      "text": "The truths I learn and the understandings I gain create a burden for me because of the responsibility I feel to handle the information wisely.",
+      "text": "The truths I learn and the un\u00ADder\u00ADstand\u00ADings I gain cre\u00ADate a bur\u00ADden for me be\u00ADcause of the re\u00ADspon\u00ADsi\u00ADbil\u00ADi\u00ADty I feel to hand\u00ADle the in\u00ADform\u00ADa\u00ADtion wise\u00ADly.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -5092,7 +5092,7 @@
     },
     {
       "id": 114,
-      "text": "When faced with how to apply biblical truths practically in a difficult or complex situation, God reveals to me a solution.",
+      "text": "When faced with how to ap\u00ADply bib\u00ADlic\u00ADal truths prac\u00ADti\u00ADcally in a dif\u00ADfi\u00ADcult or com\u00ADplex sit\u00ADu\u00ADa\u00ADtion, God re\u00ADveals to me a sol\u00ADu\u00ADtion.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -5137,7 +5137,7 @@
     },
     {
       "id": 115,
-      "text": "I want to bring order where there is organizational chaos.",
+      "text": "I want to bring or\u00ADder where there is or\u00ADgan\u00ADiz\u00ADa\u00ADtion\u00ADal cha\u00ADos.",
       "questionTypeId": 1,
       "gift": "a",
       "options": [
@@ -5182,7 +5182,7 @@
     },
     {
       "id": 116,
-      "text": "I have good hand-eye coordination and good dexterity.",
+      "text": "I have good hand-eye co\u00ADord\u00ADin\u00ADa\u00ADtion and good dex\u00ADter\u00ADi\u00ADty.",
       "questionTypeId": 1,
       "gift": "b",
       "options": [
@@ -5227,7 +5227,7 @@
     },
     {
       "id": 117,
-      "text": "I have a sense of the whole and can creatively put things together in a harmonious flow that artistically communicates a biblical truth.",
+      "text": "I have a sense of the whole and can cre\u00ADat\u00ADive\u00ADly put things to\u00ADgeth\u00ADer in a harm\u00ADon\u00ADi\u00ADous flow that art\u00ADist\u00ADic\u00ADal\u00ADly com\u00ADmun\u00ADi\u00ADcates a bib\u00ADlic\u00ADal truth.",
       "questionTypeId": 1,
       "gift": "c",
       "options": [
@@ -5272,7 +5272,7 @@
     },
     {
       "id": 118,
-      "text": "I carefully challenge or rebuke others in order to help them grow spiritually.",
+      "text": "I carefully challenge or rebuke oth\u00ADers in or\u00ADder to help them grow spir\u00ADit\u00ADu\u00ADally.",
       "questionTypeId": 1,
       "gift": "d",
       "options": [
@@ -5317,7 +5317,7 @@
     },
     {
       "id": 119,
-      "text": "I find it natural to believe in God for things that others see as impossible.",
+      "text": "I find it natural to believe in God for things that oth\u00ADers see as impossible.",
       "questionTypeId": 1,
       "gift": "e",
       "options": [
@@ -5407,7 +5407,7 @@
     },
     {
       "id": 121,
-      "text": "When a task needs to be done, I find it difficult to say no.",
+      "text": "When a task needs to be done, I find it dif\u00ADfi\u00ADcult to say no.",
       "questionTypeId": 1,
       "gift": "g",
       "options": [
@@ -5452,7 +5452,7 @@
     },
     {
       "id": 122,
-      "text": "I can make people feel at ease even in unfamiliar surroundings.",
+      "text": "I can make peo\u00ADple feel at ease even in unfamiliar surroundings.",
       "questionTypeId": 1,
       "gift": "h",
       "options": [
@@ -5542,7 +5542,7 @@
     },
     {
       "id": 124,
-      "text": "I figure out where we need to go and help others to get there.",
+      "text": "I figure out where we need to go and help oth\u00ADers to get there.",
       "questionTypeId": 1,
       "gift": "j",
       "options": [
@@ -5632,7 +5632,7 @@
     },
     {
       "id": 126,
-      "text": "God’s authority and power are manifested in the new churches and ministries I served to start.",
+      "text": "God’s authority and pow\u00ADer are manifested in the new churches and ministries I served to start.",
       "questionTypeId": 1,
       "gift": "l",
       "options": [
@@ -5677,7 +5677,7 @@
     },
     {
       "id": 127,
-      "text": "I feel compelled to expose sin wherever I see it and to challenge people to repentance.",
+      "text": "I feel compelled to expose sin wherever I see it and to challenge peo\u00ADple to repentance.",
       "questionTypeId": 1,
       "gift": "m",
       "options": [
@@ -5722,7 +5722,7 @@
     },
     {
       "id": 128,
-      "text": "I’m constantly thinking of ways to bring up spiritual matters with friends who do not know God.",
+      "text": "I’m constantly thinking of ways to bring up spir\u00ADit\u00ADu\u00ADal matters with friends who do not know God.",
       "questionTypeId": 1,
       "gift": "n",
       "options": [
@@ -5812,7 +5812,7 @@
     },
     {
       "id": 130,
-      "text": "I struggle with how to take what I have been studying and communicate only those things that will help God’s people learn what they need at the moment.",
+      "text": "I struggle with how to take what I have been stu\u00ADdying and com\u00ADmun\u00ADi\u00ADcate on\u00ADly those things that will help God’s peo\u00ADple learn what they need at the mo\u00ADment.",
       "questionTypeId": 1,
       "gift": "p",
       "options": [
@@ -5857,7 +5857,7 @@
     },
     {
       "id": 131,
-      "text": "I can sense when demonic forces are at work in a person or situation.",
+      "text": "I can sense when de\u00ADmon\u00ADic for\u00ADces are at work in a per\u00ADson or sit\u00ADu\u00ADa\u00ADtion.",
       "questionTypeId": 1,
       "gift": "q",
       "options": [
@@ -5902,7 +5902,7 @@
     },
     {
       "id": 132,
-      "text": "I love learning and share with those who want to learn.",
+      "text": "I love learn\u00ADing and share with those who want to learn.",
       "questionTypeId": 1,
       "gift": "r",
       "options": [
@@ -5947,7 +5947,7 @@
     },
     {
       "id": 133,
-      "text": "I like to read and study the book of Proverbs for its simple and powerful truths expressed in a clear and practical way.",
+      "text": "I like to read and stu\u00ADdy the book of Pro\u00ADverbs for its sim\u00ADple and pow\u00ADer\u00ADful truths ex\u00ADpressed in a clear and prac\u00ADti\u00ADcal way.",
       "questionTypeId": 1,
       "gift": "s",
       "options": [
@@ -5992,7 +5992,7 @@
     },
     {
       "id": 134,
-      "text": "I have repeatedly seen an instant healing as I laid hands on someone and prayed.",
+      "text": "I have re\u00ADpeat\u00ADed\u00ADly seen an in\u00ADstant heal\u00ADing as I laid hands on some\u00ADone and prayed.",
       "questionTypeId": 1,
       "gift": "t",
       "options": [
@@ -6037,7 +6037,7 @@
     },
     {
       "id": 135,
-      "text": "When I hear people speak in tongues, I feel the Spirit revealing his message to me, and I speak it aloud, interpreting it for the church.",
+      "text": "When I hear peo\u00ADple speak in tongues, I feel the Spir\u00ADit re\u00ADveal\u00ADing his mes\u00ADsage to me, and I speak it a\u00ADloud, in\u00ADter\u00ADpret\u00ADing it for the church.",
       "questionTypeId": 1,
       "gift": "u",
       "options": [
@@ -6082,7 +6082,7 @@
     },
     {
       "id": 136,
-      "text": "I have experienced the power of God within me to cast out demons and heal the sick, and I see his supernatural intervention in nature.",
+      "text": "I have ex\u00ADper\u00ADi\u00ADenced the pow\u00ADer of God with\u00ADin me to cast out de\u00ADmons and heal the sick, and I see his su\u00ADper\u00ADna\u00ADtur\u00ADal in\u00ADter\u00ADven\u00ADtion in na\u00ADture.",
       "questionTypeId": 1,
       "gift": "v",
       "options": [
@@ -6127,7 +6127,7 @@
     },
     {
       "id": 137,
-      "text": "I have spoken in a language I do not understand, and someone has spoken out to interpret what I had just said.",
+      "text": "I have spo\u00ADken in a lang\u00ADuage I do not un\u00ADder\u00ADstand, and some\u00ADone has spo\u00ADken out to in\u00ADter\u00ADpret what I had just said.",
       "questionTypeId": 1,
       "gift": "w",
       "options": [
@@ -6195,7 +6195,7 @@
     },
     {
       "id": 3,
-      "name": "Encouragement",
+      "name": "En\u00ADcour\u00ADage\u00ADment",
       "description": "",
       "score": 0,
       "key": "d"
@@ -6209,7 +6209,7 @@
     },
     {
       "id": 5,
-      "name": "Giving",
+      "name": "Giv\u00ADing",
       "description": "",
       "score": 0,
       "key": "f"
@@ -6279,7 +6279,7 @@
     },
     {
       "id": 15,
-      "name": "Teaching",
+      "name": "Teach\u00ADing",
       "description": "",
       "score": 0,
       "key": "p"
@@ -6307,21 +6307,21 @@
     },
     {
       "id": 19,
-      "name": "Healing",
+      "name": "Heal\u00ADing",
       "description": "",
       "score": 0,
       "key": "t"
     },
     {
       "id": 20,
-      "name": "Interpretation",
+      "name": "in\u00ADter\u00ADpret\u00ADation",
       "description": "",
       "score": 0,
       "key": "u"
     },
     {
       "id": 21,
-      "name": "Miracles",
+      "name": "Mir\u00ADa\u00ADcles",
       "description": "",
       "score": 0,
       "key": "v"
