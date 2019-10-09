@@ -42,6 +42,14 @@
       "problemMatcher": [
         "$tsc-watch"
       ]
+    },
+    {
+      "type": "shell",
+      "id": "shell,ng build ng2-sg-survey,",
+      "problemMatcher": [
+        "$webpack-builder"
+      ],
+      "group": "build"
     }
   ]
 }

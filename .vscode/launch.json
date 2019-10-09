@@ -37,7 +37,7 @@
     },
 
     {
-      "name": "ng test firefox",
+      "name": "ng test ff",
       "type": "firefox",
       "request": "launch",
       "url": "http://localhost:9876/debug.html",
