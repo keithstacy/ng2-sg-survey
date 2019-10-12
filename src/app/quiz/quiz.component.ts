@@ -19,8 +19,8 @@ export class QuizComponent implements OnInit {
     'allowBack': true,
     'allowReview': true,
     'autoMove': true,  // if true, it will move to next question automatically when answered.
-    'pageSize': 1,
-    'requiredAll': false,  // indicates if you must answer all the questions before submitting.
+    'pageSize': 2,
+    'requiredAll': true,  // indicates if you must answer all the questions before submitting.
     'richText': false,
     'shuffleQuestions': false,
     'shuffleOptions': false,
@@ -52,14 +52,16 @@ export class QuizComponent implements OnInit {
     this.mode = 'quiz';
   }
 
-  getfilteredQuestions() {
+  get filteredQuestions() {
     return (this.quiz.questions) ?
       this.quiz.questions.slice(this.pager.index, this.pager.index + this.pager.size) : [];
   }
 
   onSelect(question: Question, option: Option) {
     if (question.questionTypeId === 1) {
-      question.options.forEach((x) => { if (x.id !== option.id) { x.selected = false; } });
+      question.options.forEach((x) => {
+        if (x.id !== option.id) { x.selected = false; }
+      });
       question.score = question.options.filter(q => q.selected === true)[0].value;
     }
 
@@ -82,7 +84,9 @@ export class QuizComponent implements OnInit {
   onSubmit() {
     // tslint:disable-next-line: prefer-const
     let answers = [];
-    this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered }));
+    this.quiz.questions.forEach(x => answers.push({
+      'quizId': this.quiz.id, 'questionId': x.id, 'answered': x.answered
+    }));
     this.quizService.post(this.quiz);
     this.quizScore = this.quizService.getScore();
     this.mode = 'result';

@@ -13,7 +13,7 @@
   <h2 class="text-center font-weight-normal">{{quiz.name}}</h2>
   <hr />
   <div *ngIf="mode=='quiz' && quiz">
-    <div *ngFor="let question of quiz.questions;">
+    <div *ngFor="let question of filteredQuestions;">
       <div class="badge badge-info badge-flex">Question {{question.sequenceNumber}} of {{pager.count}}.</div>
       <h3 class="font-weight-normal question">{{question.sequenceNumber}}.
         <span [innerHTML]="question.text"></span>
