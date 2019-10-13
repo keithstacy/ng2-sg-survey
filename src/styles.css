@@ -1,15 +1,12 @@
 .badge-flex {
   font-size:10px;
 }
-
 .btn {
   border-radius: 0;
 }
-
 .cursor-pointer{
   cursor: pointer;
 }
-
 .flex-container {
   display: flex;
   flex-flow: column wrap;
@@ -17,30 +14,31 @@
   align-items: flex-start;
   align-content: flex-start;
 }
-
 .flex-item {
   align-self:flex-start;
 }
-
 .grid-container {
   display:inline-grid;
   grid-template-columns: 25px 400px;
   grid-template-rows: 1vw;
 }
-
 .grid-item-input {
   grid-column: 1;
   grid-row: 1;
   margin-top: 10%;
 }
-
 .grid-item-label {
   grid-column: 2;
   grid-row: 1;
   margin-top: 2%;
   height: 9vw;
 }
-
+/* TODO: Make a narrower background PNG to use on small formats */
+.image{
+  height:80em; background-size:cover; width:100%;
+  background-image:url('./p66joh73.png');
+  overflow:scroll;
+}
 .option {
   background-color:#cadaee;
   font-size: 4vw;
@@ -48,27 +46,22 @@
   height: 9vw;
   margin: 4px;
 }
-
 .options-input {
   height:7vw;
   width:7vw;
 }
-
 .question {
   margin-top:5px;
   width: 89vw;
 }
-
 .question-size {
   font-size: 3.25vw;
 }
-
 .result-question{
   background-color:#eee;
   margin:4px;
   padding:6px;
 }
-
 /* Smallest formats */
 @media only screen and (max-width: 400px) {
     h1,.h1{
