@@ -44,8 +44,9 @@
       ]
     },
     {
+      "label": "ngbuild",
       "type": "shell",
-      "id": "shell,ng build ng2-sg-survey,",
+      "command": "shell,ng build ng2-sg-survey,",
       "problemMatcher": [
         "$webpack-builder"
       ],
