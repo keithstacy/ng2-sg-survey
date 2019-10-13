@@ -37,6 +37,10 @@
   margin-top: 2%;
   height: 9vw;
 }
+h3,.h3 {
+  position:absolute;
+  bottom:0;
+}
 .image{
   height:80em;
   background-size:cover;
@@ -81,8 +85,6 @@
   }
   h3,.h3{
     font-size:4vw;
-    position:absolute;
-    bottom:0;
   }
   .badge {
     visibility: hidden;
