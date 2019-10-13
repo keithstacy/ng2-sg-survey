@@ -51,8 +51,10 @@
   </div>
   <hr />
   <div *ngIf="mode!='result'">
-    <button class="btn btn-warning" (click)="mode = 'quiz'">Survey</button>
-    <button class="btn btn-info" (click)="mode = 'review'">Review</button>
-    <button class="btn btn-primary" (click)="onSubmit();">Get your results</button>
+    <button class="btn btn-warning btn-sm" (click)="mode = 'quiz'">Survey</button>
+    <button class="btn btn-info btn-sm" (click)="mode = 'review'">Review</button>
+    <button class="btn btn-primary btn-sm" (click)="onSubmit();">Get your results</button>
   </div>
+  <br/>
+  <div class="footnote">The background image is adapted from the Gospel of John as found in <a href="https://en.wikipedia.org/wiki/Papyrus_66">Papyrus 66</a>, an early Greek manuscript of John's Gospel.</div>
 </div>
