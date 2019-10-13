@@ -69,24 +69,24 @@
 }
 /* Smallest formats */
 @media only screen and (max-width: 400px) {
-    h1,.h1{
-      font-size:22px;
-    }
-    h2,.h2{
-      font-size:20px;
-    }
-    h3,.h3{
-      font-size:4vw;
-    }
-    .badge {
-      visibility: hidden;
-    }
-    .image{
-      background-image:url('./p66joh73.narrow.png');
-      background-position:160vw,0;
-      overflow:hidden;
-    }
+  h1,.h1{
+    font-size:22px;
   }
+  h2,.h2{
+    font-size:20px;
+  }
+  h3,.h3{
+    font-size:4vw;
+  }
+  .badge {
+    visibility: hidden;
+  }
+  .image{
+    background-image:url('./p66joh73.narrow.png');
+    background-position:160vw,0;
+    overflow:hidden;
+  }
+}
 /* Tablets */
 @media only screen and (min-width: 401px) and (max-width: 500px) {
   h1,.h1{
