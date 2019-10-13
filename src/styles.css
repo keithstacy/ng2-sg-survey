@@ -59,6 +59,10 @@
   margin-top:5px;
   width: 89vw;
 }
+.question-container {
+  height:1.5cm;
+  position:relative;
+}
 .question-size {
   font-size: 3.25vw;
 }
@@ -77,6 +81,8 @@
   }
   h3,.h3{
     font-size:4vw;
+    position:absolute;
+    bottom:0;
   }
   .badge {
     visibility: hidden;
@@ -85,6 +91,10 @@
     background-image:url('./p66joh73.narrow.png');
     background-position:160vw,0;
     overflow:hidden;
+  }
+  .options-input {
+    height:8vw;
+    width:8vw;
   }
 }
 /* Tablets */
