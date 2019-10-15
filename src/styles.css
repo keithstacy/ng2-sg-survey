@@ -13,9 +13,12 @@
   justify-content: flex-start;
   align-items: flex-start;
   align-content: flex-start;
+  /* background-color: rosybrown; */
 }
 .flex-item {
   align-self:flex-start;
+  width:10vw;
+  /* background-color: brown; */
 }
 .footnote {
   font-size:2mm;
@@ -25,6 +28,7 @@
   display:inline-grid;
   grid-template-columns: 25px 400px;
   grid-template-rows: 1vw;
+  /* background-color:azure; */
 }
 .grid-item-input {
   grid-column: 1;
@@ -36,6 +40,7 @@
   grid-row: 1;
   margin-top: 2%;
   height: 9vw;
+  /* background-color:lightsteelblue; */
 }
 h3,.h3 {
   position:absolute;
@@ -44,9 +49,10 @@ h3,.h3 {
 .image{
   height:80em;
   background-size:cover;
-  width:100%;
+  width:100vw;
   background-image:url('./p66joh73.png');
-  overflow:scroll;
+  overflow:hidden;
+  background-position: -160px,0;
 }
 .option {
   background-color:#cadaee;
@@ -84,7 +90,7 @@ h3,.h3 {
     font-size:20px;
   }
   h3,.h3{
-    font-size:4vw;
+    font-size:4.5vw;
   }
   .badge {
     visibility: hidden;
@@ -93,11 +99,15 @@ h3,.h3 {
     background-image:url('./p66joh73.narrow.png');
     background-position:160vw,0;
     overflow:hidden;
+    /* max-height:600px; */
   }
   .options-input {
     height:8vw;
     width:8vw;
   }
+  /* .question {
+    background-color:lemonchiffon
+  } */
 }
 /* Tablets */
 @media only screen and (min-width: 401px) and (max-width: 500px) {
@@ -110,6 +120,11 @@ h3,.h3 {
   h3,.h3{
     font-size:4vw;
   }
+  .image{
+    background-image:url('./p66joh73.narrow.png');
+    background-position:160vw,0;
+    overflow:hidden;
+  }
   .option {
     font-size: 4vw;
     height:9vw;
@@ -120,6 +135,7 @@ h3,.h3 {
   }
   .question {
     width:70vw;
+    /* background-color:lightblue; */
   }
   .options-input {
     height:6vw;
@@ -135,7 +151,7 @@ h3,.h3 {
     font-size:20px;
   }
   h3,.h3{
-    font-size:4vw;
+    font-size:3.5vw;
   }
   .option {
     font-size: 2.6vw;
@@ -151,6 +167,7 @@ h3,.h3 {
   }
   .question {
       width:80vw;
+      /* background-color:lightsalmon; */
   }
   .grid-container {
     grid-template-rows: 2vw;
@@ -164,7 +181,8 @@ h3,.h3 {
 @media only screen and (min-width: 601px) {
   .flex-container {
     flex-flow: row wrap;
-    width: 600px;
+    width:500px;
+    /* background-color:darkviolet;*/
   }
   h1,.h1{
     font-size:20px;
@@ -173,15 +191,17 @@ h3,.h3 {
     font-size:20px;
   }
   h3,.h3{
-    font-size:18px;
+    font-size:20px;
   }
   .question {
-    width: 600px;
+    width: 500px;
+    /* background-color: greenyellow; */
   }
   .option {
-    font-size: 15px;
+    font-size: 100%;
     height: 50px;
-    width:270px;
+    width: 5cm;
+    /* background-color:plum; */
   }
   .options-input {
     height:30px;
@@ -189,10 +209,13 @@ h3,.h3 {
   }
   .grid-container {
     grid-template-rows: 35px;
-    grid-template-columns: 32px 50px;
+    grid-template-columns: 32px 45px;
+    width: 6cm;
+    /* background-color:red; */
   }
   .grid-item-label {
-    width: 230px;
-    height: 40px;
+    width: 12em;
+    height: 48px;
+    /* background-color:chartreuse; */
   }
 }

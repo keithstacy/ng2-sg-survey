@@ -20,7 +20,7 @@
           <span [innerHTML]="question.text"></span>
         </h3>
       </div>
-      <div class="flex-container">
+      <div class="flex-container" style="" >
         <div class="col-6" *ngFor="let option of question.options">
           <div class = "option flex-item grid-container">
             <input id="{{option.id}}" class="options-input grid-item-input" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" />
