@@ -53,11 +53,20 @@
       "group": "build"
     },
     {
-      "label": "gimp",
+      "label": "gimp-narrow-xcf",
       "type": "shell",
       "command": "E:\\Program Files\\GIMP 2\\bin\\gimp-2.10.exe",
       "args": [
         "E:\\Dev\\ng2-sg-survey\\src\\p66joh73.narrow.xcf"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "gimp-full-xcf",
+      "type": "shell",
+      "command": "E:\\Program Files\\GIMP 2\\bin\\gimp-2.10.exe",
+      "args": [
+        "E:\\Dev\\ng2-sg-survey\\src\\p66joh73.xcf"
       ],
       "problemMatcher": []
     }
