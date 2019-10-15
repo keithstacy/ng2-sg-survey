@@ -31,7 +31,8 @@ export class QuizComponent implements OnInit {
   pager = {
     index: 0,
     size: 1,
-    count: 1
+    count: 1,
+    lastIndex: 0
   };
   quizScore: any;
 
@@ -48,6 +49,7 @@ export class QuizComponent implements OnInit {
     let obj = this.quizService.get(quizName).subscribe(res => {
       this.quiz = new Quiz(res);
       this.pager.count = this.quiz.questions.length;
+      this.pager.lastIndex = this.pager.count - 1;
     });
     this.mode = 'quiz';
   }

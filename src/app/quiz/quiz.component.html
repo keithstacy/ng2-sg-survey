@@ -2,60 +2,149 @@
   <div class="col-6" style="opacity: 0.5">
     <h5>Parkside Church</h5>
   </div>
-  <div hidden="true" class="col-6 text-right">
-  </div>
+  <div hidden="true" class="col-6 text-right"></div>
 </div>
 <div id="quiz">
-  <h2 class="text-center font-weight-normal">{{quiz.name}}</h2>
+  <h2 class="text-center font-weight-normal">{{ quiz.name }}</h2>
   <hr />
-  <div *ngIf="mode=='quiz' && quiz">
-    <div *ngFor="let question of filteredQuestions;">
-      <div class="badge badge-info badge-flex">Question {{question.sequenceNumber}} of {{pager.count}}.</div>
+  <div *ngIf="mode == 'quiz' && quiz">
+    <div *ngFor="let question of filteredQuestions">
+      <div class="badge badge-info badge-flex">
+        Question {{ question.sequenceNumber }} of {{ pager.count }}.
+      </div>
       <div class="question-container">
-        <h3 class="font-weight-normal question">{{question.sequenceNumber}}.
+        <h3 class="font-weight-normal question">
+          {{ question.sequenceNumber }}.
           <span [innerHTML]="question.text"></span>
         </h3>
       </div>
-      <div class="flex-container" style="" >
+      <div class="flex-container">
         <div class="col-6" *ngFor="let option of question.options">
-          <div class = "option flex-item grid-container">
-            <input id="{{option.id}}" class="options-input grid-item-input" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" />
-            <label class="font-weight-normal grid-item-label"  [attr.for]="option.id">&nbsp;{{option.text}}</label>
+          <div class="option flex-item grid-container">
+            <input
+              id="{{ option.id }}"
+              class="options-input grid-item-input"
+              type="checkbox"
+              [(ngModel)]="option.selected"
+              (change)="onSelect(question, option)"
+            />
+            <label
+              class="font-weight-normal grid-item-label"
+              [attr.for]="option.id"
+              >&nbsp;{{ option.text }}</label
+            >
           </div>
+        </div>
+        <hr />
+        <div class="text-center">
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(0)"
+          >
+            First
+          </button>
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(pager.index - 1)"
+          >
+            Prev
+          </button>
+          <button class="btn btn-primary" (click)="goTo(pager.index + 1)">
+            Next
+          </button>
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(pager.lastIndex)"
+          >
+            Last
+          </button>
         </div>
       </div>
     </div>
-    <hr />
-    <div class="text-center">
-      <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(0);">First</button>
-      <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.index - 1);">Prev</button>
-      <button class="btn btn-primary" (click)="goTo(pager.index + 1);">Next</button>
-      <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.count - 1);">Last</button>
-    </div>
-    <br/>
+    <br />
   </div>
-  <div class="row text-center" *ngIf="mode=='review'">
-    <div class="col-4 cursor-pointer" *ngFor="let question of quiz.questions; let index = index;">
-      <div (click)="goTo(index)" class="p-3 mb-2 {{ isAnswered(question) == 'Answered'? 'bg-info': 'bg-warning' }}">{{index + 1}}. {{ isAnswered(question) }}</div>
+  <div class="row text-center" *ngIf="mode == 'review'">
+    <div
+      class="col-4 cursor-pointer"
+      *ngFor="let question of quiz.questions; let index = index"
+    >
+      <div
+        (click)="goTo(index)"
+        class="p-3 mb-2 {{
+          isAnswered(question) == 'Answered' ? 'bg-info' : 'bg-warning'
+        }}"
+      >
+        {{ index + 1 }}. {{ isAnswered(question) }}
+      </div>
     </div>
   </div>
-  <div class="result" *ngIf="mode=='result'">
+  <div class="result" *ngIf="mode == 'result'">
     <h2>Survey Result</h2>
     <div>
       <h4 class="alert alert-info text-center">Your results are:</h4>
-      <div *ngFor="let gift of quiz.gifts">{{gift.name}}: {{gift.band}}</div>
-      <hr/>
-      <div><strong>Want to learn more? <a target="_blank" href="https://www.christianbook.com/what-best-the-body-christ-revised/bruce-bugbee/9780310257356/pd/257352">Get the book!</a></strong></div>
+      <div *ngFor="let gift of quiz.gifts">
+        {{ gift.name }}: {{ gift.band }}
+      </div>
+      <hr />
+      <div>
+        <strong
+          >Want to learn more?
+          <a
+            target="_blank"
+            href="https://www.christianbook.com/what-best-the-body-christ-revised/bruce-bugbee/9780310257356/pd/257352"
+            >Get the book!</a
+          ></strong
+        >
+      </div>
     </div>
-    <hr/>
+    <hr />
   </div>
-  <div *ngIf="mode!='result'">
-    <button class="btn btn-warning btn-sm" (click)="mode = 'quiz'">Survey</button>
-    <button class="btn btn-info btn-sm" (click)="mode = 'review'">Review</button>
-    <button class="btn btn-primary btn-sm" (click)="onSubmit();">Get your results</button>
-    <hr/>
+  <div *ngIf="mode != 'result'">
+    <button class="btn btn-warning btn-sm" (click)="mode = 'quiz'">
+      Survey
+    </button>
+    <button class="btn btn-info btn-sm" (click)="mode = 'review'">
+      Review
+    </button>
+    <button class="btn btn-primary btn-sm" (click)="onSubmit()">
+      Get your results
+    </button>
+    <hr />
   </div>
-  <div class="footnote">The content and scoring system are adapted from Bruce Bugbee's book&nbsp;<em><strong><a target="_blank" href="https://www.christianbook.com/what-best-the-body-christ-revised/bruce-bugbee/9780310257356/pd/257352">What You Do Best in The Body of Christ</a></strong></em>. Copyright &copy; 1995, 2005 by Bruce Bugbee. Used by permission.</div>
-  <div class="footnote"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Other than the copyrighted material contained herein, this work is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div><br/>
-  <div class="footnote">The background image is adapted from the Gospel of John as found in <a target="_blank" href="https://en.wikipedia.org/wiki/Papyrus_66">Papyrus 66</a>, an early Greek manuscript of John's Gospel.</div>
+  <div class="footnote">
+    The content and scoring system are adapted from Bruce Bugbee's book&nbsp;<em
+      ><strong
+        ><a
+          target="_blank"
+          href="https://www.christianbook.com/what-best-the-body-christ-revised/bruce-bugbee/9780310257356/pd/257352"
+          >What You Do Best in The Body of Christ</a
+        ></strong
+      ></em
+    >. Copyright &copy; 1995, 2005 by Bruce Bugbee. Used by permission.
+  </div>
+  <div class="footnote">
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+      ><img
+        alt="Creative Commons License"
+        style="border-width:0"
+        src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a
+    ><br />Other than the copyrighted material contained herein, this work is
+    licensed under a
+    <a
+      target="_blank"
+      rel="license"
+      href="http://creativecommons.org/licenses/by/4.0/"
+      >Creative Commons Attribution 4.0 International License</a
+    >.
+  </div>
+  <br />
+  <div class="footnote">
+    The background image is adapted from the Gospel of John as found in
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Papyrus_66"
+      >Papyrus 66</a
+    >, an early Greek manuscript of John's Gospel.
+  </div>
 </div>

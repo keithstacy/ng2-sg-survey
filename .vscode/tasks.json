@@ -44,13 +44,22 @@
       ]
     },
     {
-      "label": "ngbuild",
+      "label": "ng-build-dist",
       "type": "shell",
-      "command": "shell,ng build ng2-sg-survey,",
+      "command": "ng build --base-href",
       "problemMatcher": [
         "$webpack-builder"
       ],
       "group": "build"
+    },
+    {
+      "label": "gimp",
+      "type": "shell",
+      "command": "E:\\Program Files\\GIMP 2\\bin\\gimp-2.10.exe",
+      "args": [
+        "E:\\Dev\\ng2-sg-survey\\src\\p66joh73.narrow.xcf"
+      ],
+      "problemMatcher": []
     }
   ]
 }
