@@ -1,3 +1,6 @@
+.badge {
+  margin-bottom:1em;
+}
 .badge-flex {
   font-size:10px;
 }
@@ -13,12 +16,10 @@
   justify-content: flex-start;
   align-items: flex-start;
   align-content: flex-start;
-  /* background-color: rosybrown; */
 }
 .flex-item {
   align-self:flex-start;
   width:10vw;
-  /* background-color: brown; */
 }
 .footnote {
   font-size:2.5mm;
@@ -28,7 +29,6 @@
   display:inline-grid;
   grid-template-columns: 25px 400px;
   grid-template-rows: 1vw;
-  /* background-color:azure; */
 }
 .grid-item-input {
   grid-column: 1;
@@ -40,7 +40,6 @@
   grid-row: 1;
   margin-top: 2%;
   height: 9vw;
-  /* background-color:lightsteelblue; */
 }
 h3,.h3 {
   position:absolute;
@@ -66,11 +65,11 @@ h3,.h3 {
   width:7vw;
 }
 .question {
-  margin-top:5px;
   width: 89vw;
 }
 .question-container {
-  height:1.5cm;
+  margin-top:2em;
+  height:3em;
   position:relative;
 }
 .question-size {
@@ -94,6 +93,8 @@ h3,.h3 {
   }
   .badge {
     visibility: hidden;
+    height:0;
+    margin-bottom:0;
   }
   .image{
     background-image:url('./p66joh73.narrow.png');
@@ -105,9 +106,9 @@ h3,.h3 {
     height:8vw;
     width:8vw;
   }
-  /* .question {
-    background-color:lemonchiffon
-  } */
+  .question-container {
+    margin-top: 1mm;
+  }
 }
 /* Tablets */
 @media only screen and (min-width: 401px) and (max-width: 500px) {
@@ -134,8 +135,10 @@ h3,.h3 {
     visibility: hidden;
   }
   .question {
-    width:70vw;
-    /* background-color:lightblue; */
+    width:100%;
+  }
+  .question-container {
+    width:75vw;
   }
   .options-input {
     height:6vw;
@@ -160,14 +163,18 @@ h3,.h3 {
   }
   .flex-container {
     flex-flow: row wrap;
-  }
-  .options-input {
+    }
+    .question-container {
+      margin-top: 1cm;
+    }
+    .options-input {
     height:5vw;
     width:5vw;
   }
   .question {
       width:80vw;
-      /* background-color:lightsalmon; */
+      font-size-adjust: 0.45;
+      background-color:red;
   }
   .grid-container {
     grid-template-rows: 2vw;
@@ -182,7 +189,6 @@ h3,.h3 {
   .flex-container {
     flex-flow: row wrap;
     width:500px;
-    /* background-color:darkviolet;*/
   }
   h1,.h1{
     font-size:20px;
@@ -195,7 +201,7 @@ h3,.h3 {
   }
   .question {
     width: 500px;
-    /* background-color: greenyellow; */
+    font-size-adjust:0.45;
   }
   .option {
     font-size: 100%;
