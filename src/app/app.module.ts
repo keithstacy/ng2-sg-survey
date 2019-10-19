@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { QuizComponent } from './quiz/quiz.component';
 import { HttpClientModule } from '@angular/common/http';
 
+import { NgxPrintModule } from 'ngx-print';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -14,7 +16,8 @@ import { HttpClientModule } from '@angular/common/http';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    NgxPrintModule
   ],
   providers: [],
   bootstrap: [AppComponent]
