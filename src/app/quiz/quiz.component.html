@@ -85,9 +85,12 @@
     <h2>Survey Result</h2>
     <div>
       <h4 class="alert alert-info text-center">Your results are:</h4>
-      <div *ngFor="let gift of quiz.gifts">
+      <div id="printableWindow">
+        <div *ngFor="let gift of quiz.gifts">
         {{ gift.name }}: {{ gift.band }}
+        </div>
       </div>
+      <button class="btn btn-primary btn-lg" (click)="printDiv('printableWindow')">Print</button>
       <hr />
       <div>
         <strong

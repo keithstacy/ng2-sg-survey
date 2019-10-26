@@ -93,4 +93,15 @@ export class QuizComponent implements OnInit {
     this.quizScore = this.quizService.getScore();
     this.mode = 'result';
   }
+
+  printDiv(elementId: any) {
+    const printableWindow = window.open('', '_blank', 'Print content');
+    const divToPrint = document.getElementById(elementId);
+    printableWindow.document.write(divToPrint.outerHTML);
+    printableWindow.document.close();
+    printableWindow.focus();
+    printableWindow.print();
+    printableWindow.close();
+  }
+
 }
